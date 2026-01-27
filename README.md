@@ -11,7 +11,7 @@
   <a href="https://naveengoudamk.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Website-111111?style=flat&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://hydpyzyhe2zzqik9.public.blob.vercel-storage.com/present%20resume.pdf" target="_blank">
+  <a href="[PASTE_GOOGLE_DRIVE_LINK_HERE](https://drive.google.com/file/d/1xuzY5AqxPkHT1rm5t8yJLXRJ62EvggNI/view?usp=sharing)" target="_blank">
     <img src="https://img.shields.io/badge/Resume-PDF-111111?style=flat&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
