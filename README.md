@@ -11,7 +11,7 @@
   <a href="https://naveengoudamk.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Website-111111?style=flat&logo=vercel&logoColor=white" />
   </a>
-  <a href="[PASTE_GOOGLE_DRIVE_LINK_HERE](https://drive.google.com/file/d/1xuzY5AqxPkHT1rm5t8yJLXRJ62EvggNI/view?usp=sharing)" target="_blank">
+  <a href="https://drive.google.com/file/d/1xuzY5AqxPkHT1rm5t8yJLXRJ62EvggNI/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-PDF-111111?style=flat&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
@@ -31,10 +31,10 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Final-year CSE student | Backend + Java Full Stack
-- 🔭 Internship: **JSPIDER - Java Full Stack**
+- 🎓 Final-year CSE student | Java Full Stack & Backend
+- 🔭 Internship: **JSPIDER – Java Full Stack**
 - 🌱 Learning: **Java Full Stack, Web Technology**
-- ⚡ Skills: **REST APIs, CRUD, DBMS, Auth**
+- ⚡ Strong in: **REST APIs, CRUD, DBMS, Auth**
 
 ---
 
