@@ -40,10 +40,10 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Final-year **CSE Student**
-- 🌱 Learning: **Java Full Stack, Web Technology**
-- ⚡ Focus: **REST APIs • CRUD • DBMS • Auth**
-- 💡 Interested in **Backend & Full Stack Development**
+- 🎓 Final-year **Computer Science & Engineering** student  
+- 🌱 Currently learning **Java Full Stack** and **Web Technologies**  
+- ⚡ Strong focus on **REST APIs, CRUD operations, DBMS, Authentication & Authorization**  
+- 💡 Interested in **Backend and Full Stack Development**
 
 ---
 
@@ -54,10 +54,10 @@
 📍 Rajajinagar, Bengaluru  
 🗓️ **Jan 2026 – Present**
 
-- 🚀 Undergoing hands-on training and **project-based learning** in Java Full Stack Development  
-- 🛠️ Building **CRUD-based applications** and **RESTful APIs** with proper validations and clean architecture  
-- 🔐 Practicing backend concepts like **authentication, authorization**, and **JSON-based data exchange**  
-- 🧪 Improving **debugging & testing** skills using **Postman**, and managing code with **Git & GitHub**
+- 🚀 Hands-on training with **project-based learning** in Java Full Stack Development  
+- 🛠️ Developing **CRUD-based applications** and **RESTful APIs** with proper validations and clean architecture  
+- 🔐 Working on backend concepts such as **authentication, authorization**, and **JSON-based data exchange**  
+- 🧪 Enhancing **debugging and testing skills** using **Postman**, and maintaining code with **Git & GitHub**
 
 ---
 
