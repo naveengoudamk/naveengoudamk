@@ -41,9 +41,23 @@
 
 ### 👨‍💻 About Me
 - 🎓 Final-year **CSE Student**
-- 🔭 Internship: **JSPIDER – Java Full Stack**
 - 🌱 Learning: **Java Full Stack, Web Technology**
 - ⚡ Focus: **REST APIs • CRUD • DBMS • Auth**
+- 💡 Interested in **Backend & Full Stack Development**
+
+---
+
+### 💼 Experience
+
+**JSpiders – Java Full Stack Internship**  
+*Java Full Stack Intern*  
+📍 Rajajinagar, Bengaluru  
+🗓️ **Jan 2026 – Present**
+
+- 🚀 Undergoing hands-on training and **project-based learning** in Java Full Stack Development  
+- 🛠️ Building **CRUD-based applications** and **RESTful APIs** with proper validations and clean architecture  
+- 🔐 Practicing backend concepts like **authentication, authorization**, and **JSON-based data exchange**  
+- 🧪 Improving **debugging & testing** skills using **Postman**, and managing code with **Git & GitHub**
 
 ---
 
