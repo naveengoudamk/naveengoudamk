@@ -11,28 +11,28 @@
 </h3>
 
 <p align="center">
-  <a href="mailto:navi2004naveen@gmail.com">
+  <a href="mailto:navi2004naveen@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-navi2004naveen%40gmail.com-ff6f61?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/naveengouda-m-khandeppagoudra-b6b4b1289/" target="_blank">
+  <a href="https://www.linkedin.com/in/naveengouda-m-khandeppagoudra-b6b4b1289/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://naveengoudamk.vercel.app/" target="_blank">
+  <a href="https://naveengoudamk.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1xuzY5AqxPkHT1rm5t8yJLXRJ62EvggNI/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1xuzY5AqxPkHT1rm5t8yJLXRJ62EvggNI/view?usp=sharing" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Resume-PDF-ff0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/naveengoudamk/" target="_blank">
+  <a href="https://leetcode.com/u/naveengoudamk/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LeetCode-naveengoudamk-f89f1b?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://www.hackerrank.com/profile/navi112004naveen" target="_blank">
+  <a href="https://www.hackerrank.com/profile/navi112004naveen" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/HackerRank-navi112004naveen-00ea64?style=for-the-badge&logo=hackerrank&logoColor=black" />
   </a>
-  <a href="https://www.youtube.com/@naveennavi947" target="_blank">
+  <a href="https://www.youtube.com/@naveennavi947" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/YouTube-@naveennavi947-ff0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
