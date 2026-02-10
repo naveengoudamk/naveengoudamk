@@ -5,9 +5,8 @@
 </h1>
 
 <h3 align="center">
-  <span style="color:#58a6ff;">Java</span> • 
-  <span style="color:#f778ba;">Java Full Stack</span> • 
-  <span style="color:#7ee787;">Backend Developer</span>
+  <span style="color:#58a6ff;">Java Developer</span> • 
+  <span style="color:#f778ba;">Java Full Stack Developer</span>
 </h3>
 
 <p align="center">
@@ -40,30 +39,32 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Final-year **Computer Science & Engineering** student  
-- 🌱 Currently learning **Java Full Stack** and **Web Technologies**  
-- ⚡ Strong focus on **REST APIs, CRUD operations, DBMS, Authentication & Authorization**  
-- 💡 Interested in **Backend and Full Stack Development**
+- 💼 **Java Full Stack Developer (Intern)** with hands-on project experience  
+- ☕ Strong foundation in **Core Java, OOP, Collections, and Exception Handling**  
+- 🔗 Experienced in building **RESTful APIs** and **CRUD-based Java applications**  
+- 🗄️ Comfortable working with **databases, SQL, and JSON-based data exchange**  
+- ⚙️ Focused on writing **clean, maintainable, and scalable Java code**
 
 ---
 
 ### 💼 Experience
 
 **JSpiders – Java Full Stack Internship**  
-*Java Full Stack Intern*  
+*Java Full Stack Developer Intern*  
 📍 Rajajinagar, Bengaluru  
 🗓️ **Jan 2026 – Present**
 
-- 🚀 Hands-on training with **project-based learning** in Java Full Stack Development  
-- 🛠️ Developing **CRUD-based applications** and **RESTful APIs** with proper validations and clean architecture  
-- 🔐 Working on backend concepts such as **authentication, authorization**, and **JSON-based data exchange**  
-- 🧪 Enhancing **debugging and testing skills** using **Postman**, and maintaining code with **Git & GitHub**
+- 🚀 Hands-on training with **real-time and project-based Java development**  
+- 🛠️ Developing **Java-based CRUD applications** and **RESTful APIs** with proper validations  
+- 🔐 Implementing **authentication and authorization** concepts in Java applications  
+- 🧪 Improving **debugging, testing, and API validation** using **Postman**  
+- 🔄 Managing source code and collaboration using **Git & GitHub**
 
 ---
 
 ### 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,react,html,css,js,git,github,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,git,github,firebase&theme=dark" />
 </p>
 
 ---
