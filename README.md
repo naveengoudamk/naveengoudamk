@@ -1,20 +1,64 @@
 <h1 align="center">
   <span style="background: linear-gradient(90deg,#00DBDE,#FC00FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-    Hi 👋, I'm NAVEENGOUDA M K
+    Hi 👋, I'm Naveengouda M K
   </span>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Java+Developer;Java+Full+Stack+Developer;Building+Scalable+Java+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Building+Scalable+Backend+Systems;Passionate+About+Clean+Code+%26+APIs" />
 </p>
 
 <p align="center">
-  ☕ <b>Java Developer</b> • Java Full Stack Developer
+  <b>☕ Java Full Stack Developer • Backend Enthusiast • Problem Solver</b>
 </p>
 
 ---
 
-## 🔗 Connect
+# 🚀 About Me
+
+💼 **Java Full Stack Developer (Intern)**  
+💡 Passionate about building scalable backend systems and clean architectures  
+
+- ☕ Strong in **Core Java, OOP, Collections & Exception Handling**
+- 🔗 Build **RESTful APIs & CRUD Applications**
+- 🗄️ Work with **SQL, JSON & Database Design**
+- ⚙️ Focused on **clean, maintainable & production-ready code**
+- 📈 Constantly learning **Spring ecosystem & system design**
+
+---
+
+# 💼 Experience
+
+## 🏢 JSpiders — Java Full Stack Intern  
+📍 Rajajinagar, Bengaluru  
+🗓️ **Jan 2026 – Present**
+
+✔ Developed Java-based CRUD web applications  
+✔ Designed and tested REST APIs  
+✔ Implemented authentication & authorization flows  
+✔ Performed API testing using Postman  
+✔ Version control using Git & GitHub  
+
+---
+
+# 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,git,github,firebase&theme=dark" />
+</p>
+
+---
+
+# 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=naveengoudamk&theme=radical&hide_border=true" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
 <p align="center">
   <a href="mailto:navi2004naveen@gmail.com">
     <img src="https://img.shields.io/badge/Email-ff6f61?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -32,48 +76,16 @@
 
 ---
 
-## 👨‍💻 About Me
-
-- 💼 Java Full Stack Developer (Intern)  
-- ☕ Strong foundation in **Core Java, OOP, Collections & Exception Handling**  
-- 🔗 Experienced in building **RESTful APIs & CRUD Applications**  
-- 🗄️ Hands-on with **SQL, JSON & Database Integration**  
-- ⚙️ Focused on writing **clean, scalable & maintainable code**
-
----
-
-## 💼 Experience
-
-### JSpiders — Java Full Stack Internship  
-📍 Rajajinagar, Bengaluru  
-🗓️ Jan 2026 – Present  
-
-- Developed **Java-based CRUD applications**
-- Built and tested **REST APIs**
-- Implemented **Authentication & Authorization**
-- Performed API validation using **Postman**
-- Managed code using **Git & GitHub**
-
----
-
-## 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,git,github,firebase&theme=dark" />
-</p>
-
----
-
-## 📊 Coding Consistency
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=naveengoudamk&theme=radical&hide_border=true&cache_seconds=86400" />
-</p>
-
----
-
-## 💡 Developer Quote
+# 💡 Developer Mindset
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
+
+<p align="center">
+  <i>"Consistency beats intensity — I focus on improving every single day."</i>
+</p>
+
+---
+
+⭐️ From <b>Naveengouda M K</b>
