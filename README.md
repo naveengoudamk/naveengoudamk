@@ -5,43 +5,44 @@
 </h1>
 
 <p align="center">
-  <b>☕ Java Full Stack Developer • Backend Enthusiast</b>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Backend+Focused+Developer;Building+Scalable+Applications" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=58A6FF&center=true&vCenter=true&width=600&lines=Java+Developer;Spring+Boot+Learner;Building+Scalable+Applications" />
+  ☕ <b>Java Full Stack Developer</b> • REST API Developer • Problem Solver
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
+### 👨‍💻 About Me
 - 💼 Java Full Stack Developer (Intern)  
-- ☕ Strong foundation in **Core Java, OOP, Collections & Exception Handling**  
-- 🔗 Experienced in building **RESTful APIs & CRUD Applications**  
-- 🗄️ Hands-on with **SQL, JSON & Database Integration**  
-- 🏗️ Follow layered architecture (**Controller → Service → Repository**)  
-- 🔐 Implemented basic **Authentication & Authorization**  
-- ⚙️ Focused on writing **clean, scalable & maintainable code**  
-- 📈 Continuously learning **Spring Boot, JPA & System Design fundamentals**
+- ☕ Strong in **Core Java, OOP, Collections, Exception Handling**  
+- 🔗 Build **REST APIs & CRUD Applications**  
+- 🗄️ Work with **SQL, JSON & Database Integration**  
+- ⚙️ Focused on clean & scalable code  
 
 ---
 
-## 🧰 Tech Stack
+### 💼 Experience
+**JSpiders — Java Full Stack Intern**  
+📍 Rajajinagar, Bengaluru | 🗓️ Jan 2026 – Present  
+
+- Developed Java-based CRUD applications  
+- Designed & tested REST APIs  
+- Implemented Authentication & Authorization  
+- API testing using Postman  
+- Version control with Git & GitHub  
+
+---
+
+### 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,html,css,js,bootstrap,git,github,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,html,css,js,bootstrap,git,github,postman,firebase&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=naveengoudamk&theme=radical&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect
+### 🔗 Connect
 <p align="center">
   <a href="mailto:navi2004naveen@gmail.com">
     <img src="https://img.shields.io/badge/Email-ff6f61?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -59,4 +60,6 @@
 
 ---
 
-<p align="center"><i>Consistency builds mastery 🚀</i></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=naveengoudamk&theme=radical&hide_border=true" />
+</p>
