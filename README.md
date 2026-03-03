@@ -16,10 +16,10 @@
 
 ### 👨‍💻 About Me
 - 💼 Java Full Stack Developer (Intern)  
-- ☕ Strong in **Core Java, OOP, Collections & Exception Handling**  
-- 🔗 Develop **REST APIs & CRUD Applications**  
-- 🗄️ Experience with **Database Integration & JSON Processing**  
-- ⚙️ Focused on writing clean, scalable & maintainable code  
+- ☕ Strong in Core Java, OOP, Collections & Exception Handling  
+- 🔗 Develop REST APIs & CRUD Applications  
+- 🗄️ Experience with SQL, JSON & Database Integration  
+- ⚙️ Focused on clean & scalable code  
 
 ---
 
@@ -30,69 +30,51 @@
 - Developed Java-based CRUD web applications  
 - Designed & tested REST APIs  
 - Implemented Authentication & Authorization  
-- Performed API testing using Postman  
-- Managed version control using Git & GitHub  
+- API testing using Postman  
+- Version control using Git & GitHub  
 
 ---
 
 # 🚀 Tech Stack
 
-### ☕ Backend Development
+### ☕ Backend
+Core Java • Spring Boot • Spring MVC • Hibernate/JPA • REST APIs • Maven • Gradle • Layered Architecture
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle&theme=dark" />
 </p>
 
-- Core Java  
-- Spring Boot & Spring MVC  
-- Hibernate / JPA (ORM)  
-- RESTful API Development  
-- Layered Architecture (Controller → Service → Repository)  
-- Exception Handling & Validation  
-
 ---
 
-### 🌐 Frontend Development
+### 🌐 Frontend
+HTML5 • CSS3 • JavaScript • Bootstrap • DOM Manipulation • Client-side Validation
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" />
 </p>
 
-- HTML5 & CSS3  
-- JavaScript (ES6 basics)  
-- Bootstrap (Responsive UI)  
-- DOM Manipulation  
-- Form Handling & Client-side Validation  
-
 ---
 
-### 🗄️ Database & Persistence
+### 🗄️ Database
+MySQL • JDBC • Database Design • Normalization • SQL Joins
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark" />
 </p>
 
-- MySQL  
-- JDBC Connectivity  
-- Database Design & Normalization  
-- Writing Joins & Complex SQL Queries  
-
 ---
 
 ### 🔗 API & Integration
-- JSON Request / Response Handling  
-- Postman for API Testing  
-- Authentication (Basic & JWT Concepts)  
-- Connecting Frontend to Backend via REST APIs  
+JSON Handling • Postman • Authentication (Basic & JWT) • Frontend-Backend Integration
 
 ---
 
-### ⚙️ Tools & Version Control
+### ⚙️ Tools
+Git • GitHub • IntelliJ IDEA • VS Code
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea&theme=dark" />
 </p>
-
-- Git & GitHub  
-- Postman  
-- IntelliJ IDEA / VS Code  
-- Maven Build Tool  
 
 ---
 
@@ -103,7 +85,7 @@
 
 ---
 
-### 🔗 Connect With Me
+### 🔗 Connect
 <p align="center">
   <a href="mailto:navi2004naveen@gmail.com">
     <img src="https://img.shields.io/badge/Email-ff6f61?style=for-the-badge&logo=gmail&logoColor=white" />
