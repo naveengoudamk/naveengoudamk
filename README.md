@@ -9,16 +9,21 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=58A6FF&center=true&vCenter=true&width=600&lines=Java+Developer;Spring+Boot+Learner;Building+Scalable+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=58A6FF&center=true&vCenter=true&width=600&lines=Java+Developer;Spring+Boot+Learner;Building+Scalable+Applications" />
 </p>
 
 ---
 
-## 👨‍💻 About
-- 💼 Java Full Stack Intern  
-- 🔗 Build REST APIs & CRUD apps  
-- 🗄️ SQL & Database Integration  
-- ⚙️ Clean, scalable code mindset  
+## 👨‍💻 About Me
+
+- 💼 Java Full Stack Developer (Intern)  
+- ☕ Strong foundation in **Core Java, OOP, Collections & Exception Handling**  
+- 🔗 Experienced in building **RESTful APIs & CRUD Applications**  
+- 🗄️ Hands-on with **SQL, JSON & Database Integration**  
+- 🏗️ Follow layered architecture (**Controller → Service → Repository**)  
+- 🔐 Implemented basic **Authentication & Authorization**  
+- ⚙️ Focused on writing **clean, scalable & maintainable code**  
+- 📈 Continuously learning **Spring Boot, JPA & System Design fundamentals**
 
 ---
 
