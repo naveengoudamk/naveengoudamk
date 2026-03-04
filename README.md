@@ -12,11 +12,7 @@
 
 ---
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16213e,100:0f3460&height=3"/>
-</p>
-
-## 👨‍💻 About Me
+## <span style="color:#00DBDE">👨‍💻 About Me</span>
 
 - 💼 Java Full Stack Developer (Intern)  
 - ☕ Strong in **Core Java, OOP, Collections & Exception Handling**  
@@ -24,11 +20,9 @@
 - 🗄️ Experience with **SQL, JSON & Database Integration**  
 - ⚙️ Focused on **clean, scalable & maintainable code**
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16213e,100:0f3460&height=3"/>
-</p>
+---
 
-## 💼 Experience
+## <span style="color:#00DBDE">💼 Experience</span>
 
 **JSpiders — Java Full Stack Intern**  
 📍 Rajajinagar, Bengaluru | 🗓️ Jan 2026 – Present  
@@ -39,35 +33,49 @@
 - API testing using Postman  
 - Version control using Git & GitHub  
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16213e,100:0f3460&height=3"/>
-</p>
+---
 
-# 🚀 Tech Stack
+# <span style="color:#00DBDE">🚀 Tech Stack</span>
 
 ### ☕ Backend
-Core Java • Spring Boot • Spring MVC • Hibernate/JPA • REST APIs • Maven • Gradle • Layered Architecture
+Core Java • Spring Boot • Spring MVC • Hibernate/JPA • REST APIs • Maven • Gradle
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java&theme=dark"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=spring&theme=dark"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=hibernate&theme=dark"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=maven&theme=dark"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=gradle&theme=dark"/>
 </p>
 
 ---
 
 ### 🌐 Frontend
-HTML5 • CSS3 • JavaScript • Bootstrap • DOM Manipulation • Client-side Validation
+HTML5 • CSS3 • JavaScript • Bootstrap • DOM Manipulation
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html&theme=dark"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css&theme=dark"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js&theme=dark"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=bootstrap&theme=dark"/>
 </p>
 
 ---
 
 ### 🗄️ Database
-MySQL • JDBC • Database Design • Normalization • SQL Joins
+MySQL • JDBC • Database Design • SQL Joins
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=firebase&theme=dark"/>
 </p>
 
 ---
@@ -78,27 +86,30 @@ JSON Handling • Postman • Authentication (Basic / JWT) • Frontend ↔ Back
 ---
 
 ### ⚙️ Tools
-Git • GitHub • IntelliJ IDEA • VS Code
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git&theme=dark"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github&theme=dark"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postman&theme=dark"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=idea&theme=dark"/>
 </p>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16213e,100:0f3460&height=3"/>
-</p>
+---
 
-## 📊 GitHub Activity
+## <span style="color:#00DBDE">📊 GitHub Activity</span>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveengoudamk&theme=radical&hide_border=true"/>
 </p>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16213e,100:0f3460&height=3"/>
-</p>
+---
 
-## 🔗 Connect
+## <span style="color:#00DBDE">🔗 Connect</span>
 
 <p align="center">
 
