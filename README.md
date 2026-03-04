@@ -79,10 +79,7 @@ Git • GitHub • IntelliJ IDEA • VS Code
 ---
 
 ### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=naveengoudamk&theme=radical&hide_border=true" />
-</p>
-
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=naveengoudamk&show_icons=true&theme=radical&hide_border=true"/> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=naveengoudamk&theme=radical&hide_border=true"/> </p> <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveengoudamk&layout=compact&theme=radical&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=naveengoudamk&theme=radical&hide_border=true"/> </p>
 ---
 
 ### 🔗 Connect
