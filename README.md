@@ -12,7 +12,7 @@
 
 ---
 
-## <span style="color:#00DBDE">👨‍💻 About Me</span>
+## <span style="color:#00DBDE;font-weight:bold;">👨‍💻 About Me</span>
 
 - 💼 Java Full Stack Developer (Intern)  
 - ☕ Strong in **Core Java, OOP, Collections & Exception Handling**  
@@ -22,7 +22,7 @@
 
 ---
 
-## <span style="color:#00DBDE">💼 Experience</span>
+## <span style="color:#FF9F1C;font-weight:bold;">💼 Experience</span>
 
 **JSpiders — Java Full Stack Intern**  
 📍 Rajajinagar, Bengaluru | 🗓️ Jan 2026 – Present  
@@ -35,7 +35,7 @@
 
 ---
 
-# <span style="color:#00DBDE">🚀 Tech Stack</span>
+# <span style="color:#2ECC71;font-weight:bold;">🚀 Tech Stack</span>
 
 ### ☕ Backend
 Core Java • Spring Boot • Spring MVC • Hibernate/JPA • REST APIs • Maven • Gradle
@@ -101,7 +101,7 @@ JSON Handling • Postman • Authentication (Basic / JWT) • Frontend ↔ Back
 
 ---
 
-## <span style="color:#00DBDE">📊 GitHub Activity</span>
+## <span style="color:#9B59B6;font-weight:bold;">📊 GitHub Activity</span>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveengoudamk&theme=radical&hide_border=true"/>
@@ -109,7 +109,7 @@ JSON Handling • Postman • Authentication (Basic / JWT) • Frontend ↔ Back
 
 ---
 
-## <span style="color:#00DBDE">🔗 Connect</span>
+## <span style="color:#FF4D6D;font-weight:bold;">🔗 Connect</span>
 
 <p align="center">
 
