@@ -12,14 +12,21 @@
 
 ---
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16213e,100:0f3460&height=3"/>
+</p>
+
 ## 👨‍💻 About Me
+
 - 💼 Java Full Stack Developer (Intern)  
 - ☕ Strong in **Core Java, OOP, Collections & Exception Handling**  
 - 🔗 Develop **REST APIs & CRUD Applications**  
 - 🗄️ Experience with **SQL, JSON & Database Integration**  
 - ⚙️ Focused on **clean, scalable & maintainable code**
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16213e,100:0f3460&height=3"/>
+</p>
 
 ## 💼 Experience
 
@@ -32,7 +39,9 @@
 - API testing using Postman  
 - Version control using Git & GitHub  
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16213e,100:0f3460&height=3"/>
+</p>
 
 # 🚀 Tech Stack
 
@@ -75,7 +84,9 @@ Git • GitHub • IntelliJ IDEA • VS Code
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea&theme=dark"/>
 </p>
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16213e,100:0f3460&height=3"/>
+</p>
 
 ## 📊 GitHub Activity
 
@@ -83,7 +94,9 @@ Git • GitHub • IntelliJ IDEA • VS Code
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveengoudamk&theme=radical&hide_border=true"/>
 </p>
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16213e,100:0f3460&height=3"/>
+</p>
 
 ## 🔗 Connect
 
