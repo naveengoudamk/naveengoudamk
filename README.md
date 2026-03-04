@@ -1,6 +1,7 @@
 <h1 align="center">
   <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DBDE,100:FC00FF&height=200&section=header&text=Naveengouda%20M%20K&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DBDE,100:FC00FF&height=200&section=header&text=HI
+    HI👋Naveengouda%20M%20K&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 </h1>
 
