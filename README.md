@@ -37,50 +37,42 @@
 
 # <span style="color:#2ECC71;font-weight:bold;">🚀 Tech Stack</span>
 
-### ☕ Backend
+### ☕ Backend  
 Core Java • Spring Boot • Spring MVC • Hibernate/JPA • REST APIs • Maven • Gradle
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java&theme=dark"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=spring&theme=dark"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=hibernate&theme=dark"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=maven&theme=dark"/>
-&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=java&theme=dark"/> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=spring&theme=dark"/> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=hibernate&theme=dark"/> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=maven&theme=dark"/> &nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=gradle&theme=dark"/>
 </p>
 
 ---
 
-### 🌐 Frontend
+### 🌐 Frontend  
 HTML5 • CSS3 • JavaScript • Bootstrap • DOM Manipulation
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html&theme=dark"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css&theme=dark"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=js&theme=dark"/>
-&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html&theme=dark"/> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css&theme=dark"/> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js&theme=dark"/> &nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark"/>
 </p>
 
 ---
 
-### 🗄️ Database
+### 🗄️ Database  
 MySQL • JDBC • Database Design • SQL Joins
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
-&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark"/> &nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=firebase&theme=dark"/>
 </p>
 
 ---
 
-### 🔗 API & Integration
+### 🔗 API & Integration  
 JSON Handling • Postman • Authentication (Basic / JWT) • Frontend ↔ Backend Integration
 
 ---
@@ -88,14 +80,10 @@ JSON Handling • Postman • Authentication (Basic / JWT) • Frontend ↔ Back
 ### ⚙️ Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git&theme=dark"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github&theme=dark"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=postman&theme=dark"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode&theme=dark"/>
-&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git&theme=dark"/> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github&theme=dark"/> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postman&theme=dark"/> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark"/> &nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=idea&theme=dark"/>
 </p>
 
@@ -104,7 +92,7 @@ JSON Handling • Postman • Authentication (Basic / JWT) • Frontend ↔ Back
 ## <span style="color:#9B59B6;font-weight:bold;">📊 GitHub Activity</span>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=naveengoudamk&theme=radical&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=naveengoudamk&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
