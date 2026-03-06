@@ -1,72 +1,120 @@
-# Hi 👋 I'm Naveengouda M K
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Hi%20👋%20I'm%20Naveengouda%20M%20K&fontSize=40&fontColor=ffffff"/>
+</p>
 
-**Java Full Stack Developer • Backend Enthusiast**
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00DBDE&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;Backend+Focused+Engineer;Building+Scalable+Web+Applications"/>
+</p>
 
----
-
-## 👨‍💻 About Me
-
-- 💼 Java Full Stack Developer (Intern)
-- ☕ Strong in **Core Java, OOP, Collections, Exception Handling**
-- 🔗 Build **REST APIs & CRUD Applications**
-- 🗄️ Work with **SQL, JSON & Database Integration**
-- ⚙️ Focused on writing **clean and scalable code**
+<p align="center">
+<b>☕ Java Full Stack Developer • REST API Developer • Backend Enthusiast</b>
+</p>
 
 ---
 
-## 💼 Experience
+## <span style="color:#00DBDE;font-weight:bold;">👨‍💻 About Me</span>
+
+- 💼 Java Full Stack Developer (Intern)  
+- ☕ Strong in **Core Java, OOP, Collections & Exception Handling**  
+- 🔗 Develop **REST APIs & CRUD Applications**  
+- 🗄️ Experience with **SQL, JSON & Database Integration**  
+- ⚙️ Focused on **clean, scalable & maintainable code**
+
+---
+
+## <span style="color:#FF9F1C;font-weight:bold;">💼 Experience</span>
 
 **JSpiders — Java Full Stack Intern**  
-Rajajinagar, Bengaluru | Jan 2026 – Present
+📍 Rajajinagar, Bengaluru | 🗓️ Jan 2026 – Present  
 
-- Developed Java CRUD web applications  
+- Developed Java-based CRUD web applications  
 - Designed and tested REST APIs  
-- Implemented authentication and authorization  
+- Implemented Authentication & Authorization  
 - API testing using Postman  
-- Version control using Git and GitHub  
+- Version control using Git & GitHub  
 
 ---
 
-# 🚀 Tech Stack
+# <span style="color:#2ECC71;font-weight:bold;">🚀 Tech Stack</span>
 
-### Backend
-Java • Spring Boot • Spring MVC • Hibernate • REST APIs • Maven • Gradle
+### ☕ Backend  
+Core Java • Spring Boot • Spring MVC • Hibernate/JPA • REST APIs • Maven • Gradle
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java&theme=dark"/> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=spring&theme=dark"/> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=hibernate&theme=dark"/> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=maven&theme=dark"/> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=gradle&theme=dark"/>
 </p>
 
 ---
 
-### Frontend
-HTML • CSS • JavaScript • Bootstrap
+### 🌐 Frontend  
+HTML5 • CSS3 • JavaScript • Bootstrap • DOM Manipulation
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html&theme=dark"/> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css&theme=dark"/> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js&theme=dark"/> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=bootstrap&theme=dark"/>
 </p>
 
 ---
 
-### Database
-MySQL • JDBC • SQL Joins • Database Design
+### 🗄️ Database  
+MySQL • JDBC • Database Design • SQL Joins
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,firebase"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark"/> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=firebase&theme=dark"/>
 </p>
 
 ---
 
-### Tools
+### 🔗 API & Integration  
+JSON Handling • Postman • Authentication (Basic / JWT) • Frontend ↔ Backend Integration
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea"/>
+---
+
+### ⚙️ Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git&theme=dark"/> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github&theme=dark"/> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postman&theme=dark"/> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark"/> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=idea&theme=dark"/>
 </p>
 
 ---
 
-## 🔗 Connect
+## <span style="color:#9B59B6;font-weight:bold;">📊 GitHub Activity</span>
 
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:navi2004naveen@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/naveengouda-m-khandeppagoudra-b6b4b1289/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat)](https://naveengoudamk.vercel.app/)
-[![Resume](https://img.shields.io/badge/Resume-red?style=flat)](https://drive.google.com/file/d/1xuzY5AqxPkHT1rm5t8yJLXRJ62EvggNI/view)
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=naveengoudamk&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## <span style="color:#FF4D6D;font-weight:bold;">🔗 Connect</span>
+
+<p align="center">
+
+<a href="mailto:navi2004naveen@gmail.com">
+<img src="https://img.shields.io/badge/Email-ff6f61?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/naveengouda-m-khandeppagoudra-b6b4b1289/">
+<img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://naveengoudamk.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://drive.google.com/file/d/1xuzY5AqxPkHT1rm5t8yJLXRJ62EvggNI/view">
+<img src="https://img.shields.io/badge/Resume-ff0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
+</p>
