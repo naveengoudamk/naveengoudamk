@@ -10,10 +10,6 @@
 <b>☕ Java Full Stack Developer • REST API Developer • Backend Enthusiast</b>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=naveengoudamk&label=Profile%20Views&color=00DBDE&style=for-the-badge"/>
-</p>
-
 ---
 
 ## <span style="color:#00DBDE;font-weight:bold;">👨‍💻 About Me</span>
