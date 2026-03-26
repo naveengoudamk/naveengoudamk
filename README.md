@@ -10,34 +10,39 @@
 <b>☕ Java Full Stack Developer • REST API Developer • Backend Enthusiast</b>
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=naveengoudamk&label=Profile%20Views&color=00DBDE&style=for-the-badge"/>
+</p>
+
 ---
 
 ## <span style="color:#00DBDE;font-weight:bold;">👨‍💻 About Me</span>
 
-- 💼 Java Full Stack Developer (Intern)  
-- ☕ Strong in **Core Java, OOP, Collections & Exception Handling**  
-- 🔗 Develop **REST APIs & CRUD Applications**  
-- 🗄️ Experience with **SQL, JSON & Database Integration**  
-- ⚙️ Focused on **clean, scalable & maintainable code**
+* 💼 Java Full Stack Developer (Intern)
+* ☕ Strong in <b>Core Java, OOP, Collections & Exception Handling</b>
+* 🔗 Develop <b>REST APIs & CRUD Applications</b>
+* 🗄️ Experience with <b>SQL, JSON & Database Integration</b>
+* ⚙️ Focused on <b>clean, scalable & maintainable code</b>
 
 ---
 
 ## <span style="color:#FF9F1C;font-weight:bold;">💼 Experience</span>
 
-**JSpiders — Java Full Stack Intern**  
-📍 Rajajinagar, Bengaluru | 🗓️ Jan 2026 – Present  
+<b>JSpiders — Java Full Stack Intern</b>
+📍 Rajajinagar, Bengaluru | 🗓️ Jan 2026 – Present
 
-- Developed Java-based CRUD web applications  
-- Designed and tested REST APIs  
-- Implemented Authentication & Authorization  
-- API testing using Postman  
-- Version control using Git & GitHub  
+* 🚀 Developed Java-based CRUD web applications
+* 🔗 Designed and tested REST APIs
+* 🔐 Implemented Authentication & Authorization
+* 🧪 API testing using Postman
+* 🔄 Version control using Git & GitHub
 
 ---
 
 # <span style="color:#2ECC71;font-weight:bold;">🚀 Tech Stack</span>
 
-### ☕ Backend  
+### ☕ Backend
+
 Core Java • Spring Boot • Spring MVC • Hibernate/JPA • REST APIs • Maven • Gradle
 
 <p align="center">
@@ -50,7 +55,8 @@ Core Java • Spring Boot • Spring MVC • Hibernate/JPA • REST APIs • Mav
 
 ---
 
-### 🌐 Frontend  
+### 🌐 Frontend
+
 HTML5 • CSS3 • JavaScript • Bootstrap • DOM Manipulation
 
 <p align="center">
@@ -62,7 +68,8 @@ HTML5 • CSS3 • JavaScript • Bootstrap • DOM Manipulation
 
 ---
 
-### 🗄️ Database  
+### 🗄️ Database
+
 MySQL • JDBC • Database Design • SQL Joins
 
 <p align="center">
@@ -72,7 +79,8 @@ MySQL • JDBC • Database Design • SQL Joins
 
 ---
 
-### 🔗 API & Integration  
+### 🔗 API & Integration
+
 JSON Handling • Postman • Authentication (Basic / JWT) • Frontend ↔ Backend Integration
 
 ---
@@ -89,7 +97,31 @@ JSON Handling • Postman • Authentication (Basic / JWT) • Frontend ↔ Back
 
 ---
 
+## <span style="color:#00C9A7;font-weight:bold;">💻 Coding Profiles</span>
+
+<p align="center">
+
+<a href="https://leetcode.com/u/naveengoudamk/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.naukri.com/code360/profile/13541076-57ef-4a02-bfc2-dc756f05ba15">
+<img src="https://img.shields.io/badge/Code360-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/rag_monkeys_22">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
 ## <span style="color:#9B59B6;font-weight:bold;">📊 GitHub Activity</span>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=naveengoudamk&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveengoudamk&theme=tokyonight&hide_border=true"/>
@@ -117,4 +149,14 @@ JSON Handling • Postman • Authentication (Basic / JWT) • Frontend ↔ Back
 <img src="https://img.shields.io/badge/Resume-ff0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
+</p>
+
+---
+
+<p align="center">
+💡 <b>"Code. Debug. Repeat. Build something awesome."</b>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,100:1a1a2e&height=120&section=footer"/>
 </p>
