@@ -116,10 +116,6 @@ JSON Handling • Postman • Authentication (Basic / JWT) • Frontend ↔ Back
 ## <span style="color:#9B59B6;font-weight:bold;">📊 GitHub Activity</span>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=naveengoudamk&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveengoudamk&theme=tokyonight&hide_border=true"/>
 </p>
 
