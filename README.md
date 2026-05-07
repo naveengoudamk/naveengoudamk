@@ -1,100 +1,124 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Naveengouda%20M%20K&fontSize=48&fontColor=58a6ff&fontAlignY=40&desc=Java%20Full%20Stack%20Developer&descSize=20&descFontColor=8b949e&descAlignY=62&animation=fadeIn"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+REST+API+Developer;Backend+Focused+Engineer;Open+to+Opportunities+%F0%9F%9A%80" />
-</p>
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2137,100:0d1117&height=210&section=header&text=Naveengouda%20M%20K&fontSize=50&fontColor=58a6ff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer&descSize=20&descFontColor=8b949e&descAlignY=60&animation=fadeIn"/>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=flat-square"/>
-</p>
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&height=45&lines=☕+Java+Full+Stack+Developer;🚀+Spring+Boot+%7C+REST+API+Engineer;🔐+Hibernate+%7C+JWT+%7C+MySQL;💡+Clean+%26+Scalable+Code+Writer;📍+Bengaluru%2C+India" />
+
+<br/>
+
+<!-- STATUS BADGES -->
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open_to_Work-2ea44f?style=for-the-badge&logo=github&logoColor=white"/>
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 👨‍💻 About Me
 
-I'm a **Java Full Stack Developer** passionate about building clean, scalable web applications.
-Currently interning at **JSpiders, Bengaluru**, where I work on real-world backend systems using Java and Spring Boot.
+</div>
 
-- 🔭 Building **REST APIs & CRUD Applications** with Spring Boot
-- 🌱 Learning **Microservices & Spring Security**
-- 💬 Ask me about **Java, Spring Boot, Hibernate, MySQL**
-- 📍 Based in **Bengaluru, Karnataka**
-- 📧 Reach me at **navi2004naveen@gmail.com**
+I'm a **Java Full Stack Developer** passionate about building clean, scalable backend systems.
+Currently interning at **JSpiders, Bengaluru** — working on real-world REST APIs and web apps using Java & Spring Boot.
+
+| | |
+|---|---|
+| 🔭 **Building** | REST APIs & CRUD Applications with Spring Boot |
+| 🌱 **Learning** | Microservices, Spring Security, Docker basics |
+| 💬 **Ask me about** | Java, Spring Boot, Hibernate, MySQL |
+| 📍 **Location** | Bengaluru, Karnataka, India |
+| 📧 **Email** | navi2004naveen@gmail.com |
 
 ---
+
+<div align="center">
 
 ## 💼 Experience
 
-**Java Full Stack Developer Intern — JSpiders**
-📍 Rajajinagar, Bengaluru &nbsp;|&nbsp; 🗓️ Jan 2026 – Present
+</div>
 
-- Developed Java-based CRUD web applications using Spring Boot
-- Designed and tested REST APIs (GET, POST, PUT, DELETE)
-- Implemented Authentication & Authorization using JWT & Basic Auth
-- Integrated MySQL databases using Hibernate / JPA
-- Tested APIs with Postman · Managed code with Git & GitHub
+<div align="center">
+
+**🏢 Java Full Stack Developer Intern — JSpiders, Rajajinagar, Bengaluru**
+🗓️ *January 2026 – Present*
+
+</div>
+
+- 🚀 Developed Java-based **CRUD web applications** using Spring Boot
+- 🔗 Designed & tested **REST APIs** — GET, POST, PUT, DELETE with proper status codes
+- 🔐 Implemented **Authentication & Authorization** using JWT & Basic Auth
+- 🗄️ Integrated **MySQL** databases using Hibernate / Spring Data JPA
+- 🧪 Tested APIs with **Postman** · Version control with **Git & GitHub**
 
 ---
+
+<div align="center">
 
 ## 🛠️ Tech Stack
 
-### Backend
-![Java](https://skillicons.dev/icons?i=java&theme=dark)
-![Spring](https://skillicons.dev/icons?i=spring&theme=dark)
-![Hibernate](https://skillicons.dev/icons?i=hibernate&theme=dark)
-![Maven](https://skillicons.dev/icons?i=maven&theme=dark)
+### ☕ Backend
 
-`Core Java` &nbsp;`OOP` &nbsp;`Collections` &nbsp;`Exception Handling` &nbsp;`Spring Boot` &nbsp;`Spring MVC` &nbsp;`Spring Data JPA` &nbsp;`Hibernate` &nbsp;`REST APIs` &nbsp;`JWT` &nbsp;`Maven` &nbsp;`Gradle`
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle&theme=dark"/>
 
-### Frontend
-![HTML](https://skillicons.dev/icons?i=html&theme=dark)
-![CSS](https://skillicons.dev/icons?i=css&theme=dark)
-![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap&theme=dark)
-
-`HTML5` &nbsp;`CSS3` &nbsp;`JavaScript` &nbsp;`Bootstrap 5` &nbsp;`DOM Manipulation`
-
-### Database
-![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)
-
-`MySQL` &nbsp;`JDBC` &nbsp;`SQL Joins` &nbsp;`Schema Design` &nbsp;`Hibernate ORM`
-
-### Tools
-![Git](https://skillicons.dev/icons?i=git&theme=dark)
-![GitHub](https://skillicons.dev/icons?i=github&theme=dark)
-![Postman](https://skillicons.dev/icons?i=postman&theme=dark)
-![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark)
-![IntelliJ](https://skillicons.dev/icons?i=idea&theme=dark)
+`Core Java` · `OOP` · `Collections` · `Exception Handling` · `Streams`
+`Spring Boot` · `Spring MVC` · `Spring Data JPA` · `Spring Security`
+`Hibernate` · `REST APIs` · `JWT` · `Maven` · `Gradle`
 
 ---
+
+### 🌐 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark"/>
+
+`HTML5` · `CSS3` · `JavaScript (ES6+)` · `Bootstrap 5` · `DOM Manipulation`
+
+---
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
+
+`MySQL` · `JDBC` · `SQL Joins` · `Schema Design` · `Hibernate ORM`
+
+---
+
+### ⚙️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea&theme=dark"/>
+
+`Git` · `GitHub` · `Postman` · `VS Code` · `IntelliJ IDEA`
+
+</div>
+
+---
+
+<div align="center">
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=naveengoudamk&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117"/>
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveengoudamk&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117"/>
-</p>
+<!-- Using anuraghazra stats - most reliable -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=naveengoudamk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveengoudamk&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=naveengoudamk&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
-</p>
+<br/>
+
+<!-- Streak stats - using denvercoder9 (most stable) -->
+<img width="70%" src="https://streak-stats.demolab.com?user=naveengoudamk&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+
+</div>
 
 ---
 
+<div align="center">
+
 ## 💻 Coding Profiles
 
-<p align="center">
 <a href="https://leetcode.com/u/naveengoudamk/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
@@ -106,15 +130,17 @@ Currently interning at **JSpiders, Bengaluru**, where I work on real-world backe
 <a href="https://www.codechef.com/users/rag_monkeys_22">
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
-</p>
+
+</div>
 
 ---
 
+<div align="center">
+
 ## 🔗 Connect With Me
 
-<p align="center">
 <a href="mailto:navi2004naveen@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/naveengouda-m-khandeppagoudra-b6b4b1289/">
@@ -128,14 +154,14 @@ Currently interning at **JSpiders, Bengaluru**, where I work on real-world backe
 <a href="https://drive.google.com/file/d/1xuzY5AqxPkHT1rm5t8yJLXRJ62EvggNI/view">
 <img src="https://img.shields.io/badge/Resume-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
-</p>
 
----
+<br/><br/>
 
-<p align="center">
-<b><i>"Code. Build. Grow. Repeat."</i></b>
-</p>
+*💡 "Code. Build. Grow. Repeat."*
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=100&section=footer&animation=fadeIn"/>
-</p>
+<br/>
+
+<!-- FOOTER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0d2137&height=110&section=footer&animation=fadeIn"/>
+
+</div>
