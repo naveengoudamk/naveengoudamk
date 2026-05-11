@@ -3,8 +3,6 @@
 <!-- HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2137,100:0d1117&height=210&section=header&text=Naveengouda%20M%20K&fontSize=50&fontColor=58a6ff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer&descSize=20&descFontColor=8b949e&descAlignY=60&animation=fadeIn"/>
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&height=45&lines=☕+Java+Full+Stack+Developer;🚀+Spring+Boot+%7C+REST+API+Engineer;🔐+Hibernate+%7C+JWT+%7C+MySQL;💡+Clean+%26+Scalable+Code+Writer;📍+Bengaluru%2C+India" />
 
 <br/>
 
