@@ -1,111 +1,86 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2137,100:0d1117&height=210&section=header&text=Naveengouda%20M%20K&fontSize=50&fontColor=58a6ff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer&descSize=20&descFontColor=8b949e&descAlignY=60&animation=fadeIn"/>
-
+<!-- PREMIUM HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,25:1e293b,50:0ea5e9,75:2563eb,100:0f172a&text=Naveengouda%20M%20K&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20•%20Spring%20Boot%20Developer&descAlignY=60&descSize=20&descFontColor=dbeafe&animation=fadeIn"/>
 
 <br/>
 
-<!-- STATUS BADGES -->
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Open_to_Work-2ea44f?style=for-the-badge&logo=github&logoColor=white"/>
+<!-- ANIMATED TYPING -->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+REST+API+Developer;Building+Scalable+Backend+Applications;Always+Learning+New+Technologies"/>
+
+<br/><br/>
+
+<!-- MODERN BADGES -->
+<img src="https://img.shields.io/badge/Java-FF6B35?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-16a34a?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-2563eb?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open_To_Work-22c55e?style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
 
 ---
 
-<div align="center">
+# 👨‍💻 About Me
 
-## 👨‍💻 About Me
+✨ Passionate **Java Full Stack Developer** focused on building scalable backend systems and modern web applications.
 
-</div>
+💼 Currently working as a **Java Full Stack Developer Intern at JSpiders, Bengaluru**.
 
-I'm a **Java Full Stack Developer** passionate about building clean, scalable backend systems.
-Currently interning at **JSpiders, Bengaluru** — working on real-world REST APIs and web apps using Java & Spring Boot.
-
-| | |
-|---|---|
-| 🔭 **Building** | REST APIs & CRUD Applications with Spring Boot |
-| 🌱 **Learning** | Microservices, Spring Security, Docker basics |
-| 💬 **Ask me about** | Java, Spring Boot, Hibernate, MySQL |
-| 📍 **Location** | Bengaluru, Karnataka, India |
-| 📧 **Email** | navi2004naveen@gmail.com |
+🚀 Interested in:
+`Spring Boot` • `REST APIs` • `Microservices` • `Security` • `Database Design`
 
 ---
 
 <div align="center">
 
-## 💼 Experience
+## ⚡ Tech Stack
 
 </div>
 
 <div align="center">
-
-**🏢 Java Full Stack Developer Intern — JSpiders, Rajajinagar, Bengaluru**
-🗓️ *January 2026 – Present*
-
-</div>
-
-- 🚀 Developed Java-based **CRUD web applications** using Spring Boot
-- 🔗 Designed & tested **REST APIs** — GET, POST, PUT, DELETE with proper status codes
-- 🔐 Implemented **Authentication & Authorization** using JWT & Basic Auth
-- 🗄️ Integrated **MySQL** databases using Hibernate / Spring Data JPA
-- 🧪 Tested APIs with **Postman** · Version control with **Git & GitHub**
-
----
-
-<div align="center">
-
-## 🛠️ Tech Stack
 
 ### ☕ Backend
-
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle&theme=dark"/>
-
-`Core Java` · `OOP` · `Collections` · `Exception Handling` · `Streams`
-`Spring Boot` · `Spring MVC` · `Spring Data JPA` · `Spring Security`
-`Hibernate` · `REST APIs` · `JWT` · `Maven` · `Gradle`
-
----
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven&theme=dark"/>
 
 ### 🌐 Frontend
-
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark"/>
 
-`HTML5` · `CSS3` · `JavaScript (ES6+)` · `Bootstrap 5` · `DOM Manipulation`
-
----
-
 ### 🗄️ Database
-
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
 
-`MySQL` · `JDBC` · `SQL Joins` · `Schema Design` · `Hibernate ORM`
-
----
-
 ### ⚙️ Tools
-
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea&theme=dark"/>
-
-`Git` · `GitHub` · `Postman` · `VS Code` · `IntelliJ IDEA`
 
 </div>
 
 ---
 
+# 💼 Experience
+
+### 🚀 Java Full Stack Developer Intern — JSpiders, Bengaluru
+📅 *Jan 2026 – Present*
+
+- Developed scalable **CRUD Applications** using Spring Boot
+- Designed secure **REST APIs**
+- Integrated **MySQL** with Hibernate & JPA
+- Implemented **JWT Authentication**
+- Worked with **Git, GitHub & Postman**
+
+---
+
 <div align="center">
 
-## 📊 GitHub Stats
-
-
+## 📈 GitHub Stats
 
 <br/>
 
-<!-- Streak stats - using denvercoder9 (most stable) -->
-<img width="70%" src="https://streak-stats.demolab.com?user=naveengoudamk&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=naveengoudamk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=naveengoudamk&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+<br/><br/>
+
+<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=naveengoudamk&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
@@ -113,16 +88,16 @@ Currently interning at **JSpiders, Bengaluru** — working on real-world REST AP
 
 <div align="center">
 
-## 💻 Coding Profiles
+## 🌐 Coding Profiles
 
 <a href="https://leetcode.com/u/naveengoudamk/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
-&nbsp;
+
 <a href="https://www.naukri.com/code360/profile/13541076-57ef-4a02-bfc2-dc756f05ba15">
-<img src="https://img.shields.io/badge/Code360-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Code360-FF6B35?style=for-the-badge&logo=codingninjas&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="https://www.codechef.com/users/rag_monkeys_22">
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
@@ -133,31 +108,35 @@ Currently interning at **JSpiders, Bengaluru** — working on real-world REST AP
 
 <div align="center">
 
-## 🔗 Connect With Me
+## 🤝 Connect With Me
 
 <a href="mailto:navi2004naveen@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-e11d48?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="https://www.linkedin.com/in/naveengouda-m-khandeppagoudra-b6b4b1289/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="https://naveengoudamk.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="https://drive.google.com/file/d/1xuzY5AqxPkHT1rm5t8yJLXRJ62EvggNI/view">
-<img src="https://img.shields.io/badge/Resume-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+<img src="https://img.shields.io/badge/Resume-dc2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-*💡 "Code. Build. Grow. Repeat."*
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 <br/>
 
-<!-- FOOTER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0d2137&height=110&section=footer&animation=fadeIn"/>
+### 💡 *Code • Build • Learn • Repeat*
+
+<br/>
+
+<!-- PREMIUM FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:0ea5e9,100:0f172a"/>
 
 </div>
