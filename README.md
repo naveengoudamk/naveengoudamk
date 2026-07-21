@@ -79,16 +79,12 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=naveengoudamk&show_icons=true&theme=radical&hide_border=true&bg_color=18181b&title_color=c084fc&icon_color=ec4899&text_color=e5e7eb"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=naveengoudamk&theme=radical&hide_border=true&background=18181b&ring=c084fc&fire=ec4899"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=naveengoudamk&show_icons=true&theme=radical&hide_border=true&bg_color=18181b&title_color=c084fc&icon_color=ec4899&text_color=e5e7eb&cache_seconds=1800"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveengoudamk&layout=compact&theme=radical&hide_border=true&bg_color=18181b&title_color=c084fc&text_color=e5e7eb&cache_seconds=1800"/>
 
 <br/><br/>
 
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=naveengoudamk&theme=react-dark&hide_border=true&bg_color=18181b&color=c084fc&line=ec4899&point=ffffff"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=naveengoudamk&theme=radical&no-frame=true&margin-w=8&margin-h=8&column=4&row=1"/>
+<img width="60%" src="https://streak-stats.demolab.com?user=naveengoudamk&theme=radical&hide_border=true&background=18181b&ring=c084fc&fire=ec4899&currStreakLabel=c084fc"/>
 
 </div>
 
@@ -98,11 +94,11 @@
 
 <div align="center">
 
-<a href="https://github.com/naveengoudamk/SmartVotingApp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=naveengoudamk&repo=SmartVotingApp&theme=radical&hide_border=true&bg_color=18181b&title_color=c084fc"/></a>
-<a href="https://github.com/naveengoudamk/SmartVotingAppWeb"><img src="https://github-readme-stats.vercel.app/api/pin/?username=naveengoudamk&repo=SmartVotingAppWeb&theme=radical&hide_border=true&bg_color=18181b&title_color=c084fc"/></a>
+<a href="https://github.com/naveengoudamk/SmartVotingApp"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=naveengoudamk&repo=SmartVotingApp&theme=radical&hide_border=true&bg_color=18181b&title_color=c084fc&cache_seconds=1800"/></a>
+<a href="https://github.com/naveengoudamk/SmartVotingAppWeb"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=naveengoudamk&repo=SmartVotingAppWeb&theme=radical&hide_border=true&bg_color=18181b&title_color=c084fc&cache_seconds=1800"/></a>
 <br/>
-<a href="https://github.com/naveengoudamk/codeless"><img src="https://github-readme-stats.vercel.app/api/pin/?username=naveengoudamk&repo=codeless&theme=radical&hide_border=true&bg_color=18181b&title_color=c084fc"/></a>
-<a href="https://github.com/naveengoudamk/java-fullstack-ecommerce"><img src="https://github-readme-stats.vercel.app/api/pin/?username=naveengoudamk&repo=java-fullstack-ecommerce&theme=radical&hide_border=true&bg_color=18181b&title_color=c084fc"/></a>
+<a href="https://github.com/naveengoudamk/codeless"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=naveengoudamk&repo=codeless&theme=radical&hide_border=true&bg_color=18181b&title_color=c084fc&cache_seconds=1800"/></a>
+<a href="https://github.com/naveengoudamk/java-fullstack-ecommerce"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=naveengoudamk&repo=java-fullstack-ecommerce&theme=radical&hide_border=true&bg_color=18181b&title_color=c084fc&cache_seconds=1800"/></a>
 
 </div>
 
