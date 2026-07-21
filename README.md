@@ -1,149 +1,140 @@
-
-Claude finished the response
-Screenshot 2026-07-20 at 2.59.10 PM.png
-Screenshot 2026-07-20 at 2.59.13 PM.png
-
-<div align="center"> <!-- PREMIUM HEADER --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,25:1e293b,50:0ea5e9,75:2563eb,100:0f172a&text=Naveengouda%20M%20K&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20•%20Spr
-
-pasted
-
-make it more attractive and perfect and modernised and  special , unique styles with text what to paste and generate description and code for that readme and send only final result dont discuss what going on in chat .
-
-
-Ran a command, created a file, read a file
-Ran a command, created a file, read a file
-Paste this into your README.md in the profile repo (naveengoudamk/naveengoudamk).
-
-
-Readme
-Document · MD 
-
-
-
-
-
-Claude is AI and can make mistakes. Please double-check responses.
-
-
-Readme · MD
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:030712,20:0f172a,45:0ea5e9,70:2563eb,100:030712&text=Hi,%20I'm%20Naveengouda%20👋&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Java%20Full%20Stack%20Developer%20•%20Spring%20Boot%20•%20REST%20API%20Craftsman&descAlignY=54&descSize=18&descFontColor=bae6fd&animation=fadeIn"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:18181b,25:7c3aed,50:a855f7,75:ec4899,100:18181b&text=Naveengouda%20M%20K&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20•%20Java%20%7C%20Spring%20Boot%20%7C%20REST%20APIs&descAlignY=58&descSize=18&descFontColor=f5d0fe&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=C084FC&center=true&vCenter=true&width=820&lines=%3E+Backend+Developer+%7C+Java+%2B+Spring+Boot;%3E+Designing+Secure%2C+Scalable+REST+APIs;%3E+Hibernate+%2B+JPA+%2B+MySQL;%3E+Currently%3A+Intern+%40+JSpiders%2C+Bengaluru;%3E+Status%3A+Open+To+Work+%E2%9C%94"/>
+
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Java+%7C+Spring+Boot+%7C+REST+APIs;Building+Scalable+Backend+Systems;Hibernate+%2B+JPA+%2B+MySQL+Enthusiast;Currently%3A+Intern+at+JSpiders%2C+Bengaluru;Open+to+Full-Time+Opportunities+🚀"/>
+
+<a href="mailto:navi2004naveen@gmail.com"><img src="https://img.shields.io/badge/Email-navi2004naveen%40gmail.com-a855f7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=18181b"/></a>
+<a href="https://www.linkedin.com/in/naveengouda-m-khandeppagoudra-b6b4b1289/"><img src="https://img.shields.io/badge/LinkedIn-Connect-a855f7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=18181b"/></a>
+<a href="https://naveengoudamk.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-a855f7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=18181b"/></a>
+<a href="https://drive.google.com/file/d/1xuzY5AqxPkHT1rm5t8yJLXRJ62EvggNI/view"><img src="https://img.shields.io/badge/Resume-Download-a855f7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=18181b"/></a>
+
 <br/><br/>
- 
+
+![Profile Views](https://komarev.com/ghpvc/?username=naveengoudamk&label=PROFILE+VIEWS&color=a855f7&style=for-the-badge&labelColor=18181b)
+![Open to Work](https://img.shields.io/badge/AVAILABLE_FOR-Full--Time_%7C_Freelance-22c55e?style=for-the-badge&labelColor=18181b)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## `01` Who Am I
+
+```json
+{
+  "name": "Naveengouda M K",
+  "title": "Java Full Stack Developer",
+  "location": "Bengaluru, India",
+  "currentRole": "Java Full Stack Developer Intern @ JSpiders",
+  "skills": ["Java", "Spring Boot", "Hibernate", "JPA", "REST APIs", "MySQL", "JWT", "Microservices"],
+  "openTo": ["Full-Time Roles", "Backend Projects", "Open Source Collaboration"],
+  "motto": "Simplicity is a prerequisite for reliability."
+}
+```
+
+<br/>
+
+## `02` Tech Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+
+</div>
+
+<br/>
+
+## `03` Experience Timeline
+
+```
+2026 ─┬─ Jan   Java Full Stack Developer Intern @ JSpiders, Bengaluru
+      │        • Built scalable CRUD apps with Spring Boot
+      │        • Designed & secured REST APIs
+      │        • Integrated MySQL via Hibernate + JPA
+      │        • Implemented JWT-based Authentication
+      │        • Version control & API testing with Git + Postman
+      └─ Now   Actively learning Microservices & System Design
+```
+
+<br/>
+
+## `04` GitHub Metrics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=naveengoudamk&show_icons=true&theme=radical&hide_border=true&bg_color=18181b&title_color=c084fc&icon_color=ec4899&text_color=e5e7eb"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=naveengoudamk&theme=radical&hide_border=true&background=18181b&ring=c084fc&fire=ec4899"/>
+
+<br/><br/>
+
+<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=naveengoudamk&theme=react-dark&hide_border=true&bg_color=18181b&color=c084fc&line=ec4899&point=ffffff"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=naveengoudamk&theme=radical&no-frame=true&margin-w=8&margin-h=8&column=4&row=1"/>
+
+</div>
+
+<br/>
+
+## `05` Pinned Work
+
+<div align="center">
+
+<a href="https://github.com/naveengoudamk/SmartVotingApp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=naveengoudamk&repo=SmartVotingApp&theme=radical&hide_border=true&bg_color=18181b&title_color=c084fc"/></a>
+<a href="https://github.com/naveengoudamk/SmartVotingAppWeb"><img src="https://github-readme-stats.vercel.app/api/pin/?username=naveengoudamk&repo=SmartVotingAppWeb&theme=radical&hide_border=true&bg_color=18181b&title_color=c084fc"/></a>
+<br/>
+<a href="https://github.com/naveengoudamk/codeless"><img src="https://github-readme-stats.vercel.app/api/pin/?username=naveengoudamk&repo=codeless&theme=radical&hide_border=true&bg_color=18181b&title_color=c084fc"/></a>
+<a href="https://github.com/naveengoudamk/java-fullstack-ecommerce"><img src="https://github-readme-stats.vercel.app/api/pin/?username=naveengoudamk&repo=java-fullstack-ecommerce&theme=radical&hide_border=true&bg_color=18181b&title_color=c084fc"/></a>
+
+</div>
+
+<br/>
+
+## `06` Competitive Coding
+
+<div align="center">
+
+<a href="https://leetcode.com/u/naveengoudamk/"><img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=18181b"/></a>
+<a href="https://www.naukri.com/code360/profile/13541076-57ef-4a02-bfc2-dc756f05ba15"><img src="https://img.shields.io/badge/Code360-Profile-FF6B35?style=for-the-badge&logo=codingninjas&logoColor=white&labelColor=18181b"/></a>
+<a href="https://www.codechef.com/users/rag_monkeys_22"><img src="https://img.shields.io/badge/CodeChef-Compete-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=18181b"/></a>
+
+</div>
+
+<br/>
+
+## `07` Let's Connect
+
+<div align="center">
+
 <a href="mailto:navi2004naveen@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/naveengouda-m-khandeppagoudra-b6b4b1289/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://naveengoudamk.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://naveengoudamk.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://drive.google.com/file/d/1xuzY5AqxPkHT1rm5t8yJLXRJ62EvggNI/view"><img src="https://img.shields.io/badge/Resume-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
- 
-<br/>
-![Profile Views](https://komarev.com/ghpvc/?username=naveengoudamk&label=Profile%20Views&color=0ea5e9&style=for-the-badge)
-![Open to Work](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-22c55e?style=for-the-badge)
- 
-</div>
-<br/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-## 🧭 About Me
- 
-```yaml
-name: Naveengouda M K
-role: Java Full Stack Developer
-current: Java Full Stack Developer Intern @ JSpiders, Bengaluru
-focus: [Spring Boot, REST APIs, Microservices, Security, Database Design]
-philosophy: "Simplicity is a prerequisite for reliability." — Edsger W. Dijkstra
-```
- 
-- 🔭 Building scalable backend systems & clean, production-ready APIs
-- 🌱 Deep-diving into **Microservices**, **JWT Security**, and **System Design**
-- ⚡ Fun fact — I debug with `System.out.println` until proven guilty
-- 📫 Reach me at **navi2004naveen@gmail.com**
-<br/>
-## ⚙️ Tech Arsenal
- 
-<div align="center">
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven&theme=dark" />
- 
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" />
- 
-**Database**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
- 
-**Tools & Workflow**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea&theme=dark" />
- 
-</div>
-<br/>
-## 💼 Experience
- 
-<table width="100%">
-<tr>
-<td>
-### 🚀 Java Full Stack Developer Intern — **JSpiders, Bengaluru**
-📅 `Jan 2026 – Present`
- 
-- ✅ Developed scalable **CRUD applications** using Spring Boot
-- ✅ Designed secure, versioned **REST APIs**
-- ✅ Integrated **MySQL** with **Hibernate & JPA**
-- ✅ Implemented **JWT Authentication** for secure access
-- ✅ Collaborated using **Git, GitHub & Postman** in an agile workflow
-</td>
-</tr>
-</table>
-<br/>
-## 📊 GitHub Analytics
- 
-<div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=naveengoudamk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=naveengoudamk&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=0ea5e9"/>
-<br/><br/>
- 
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=naveengoudamk&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=0ea5e9&point=ffffff"/>
-<br/><br/>
- 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveengoudamk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=c9d1d9"/>
-</div>
-<br/>
-## 📌 Featured Projects
- 
-<div align="center">
-<a href="https://github.com/naveengoudamk/SmartVotingApp">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=naveengoudamk&repo=SmartVotingApp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" />
-</a>
-<a href="https://github.com/naveengoudamk/SmartVotingAppWeb">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=naveengoudamk&repo=SmartVotingAppWeb&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" />
-</a>
-<br/>
-<a href="https://github.com/naveengoudamk/codeless">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=naveengoudamk&repo=codeless&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" />
-</a>
-<a href="https://github.com/naveengoudamk/java-fullstack-ecommerce">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=naveengoudamk&repo=java-fullstack-ecommerce&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" />
-</a>
-</div>
-<br/>
-## 🌐 Coding Profiles
- 
-<div align="center">
-<a href="https://leetcode.com/u/naveengoudamk/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://www.naukri.com/code360/profile/13541076-57ef-4a02-bfc2-dc756f05ba15"><img src="https://img.shields.io/badge/Code360-FF6B35?style=for-the-badge&logo=codingninjas&logoColor=white"/></a>
-<a href="https://www.codechef.com/users/rag_monkeys_22"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
- 
-</div>
-<br/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-<div align="center">
-### 💡 *Code • Build • Learn • Repeat*
- 
-<br/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:030712,50:0ea5e9,100:030712"/>
-</div>
- 
 
+<br/><br/>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+### 💡 *Write Code • Ship Fast • Never Stop Learning*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=140&section=footer&color=0:18181b,50:a855f7,100:18181b"/>
+
+</div>
