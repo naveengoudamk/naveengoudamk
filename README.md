@@ -79,17 +79,6 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/naveengoudamk?style=for-the-badge&color=a855f7&labelColor=18181b&logo=github"/>
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=ec4899&labelColor=18181b&label=Repos&query=public_repos&url=https://api.github.com/users/naveengoudamk"/>
-
-<br/><br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=naveengoudamk&show_icons=true&theme=radical&hide_border=true&bg_color=18181b&title_color=c084fc&icon_color=ec4899&text_color=e5e7eb&cache_seconds=86400"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveengoudamk&layout=compact&theme=radical&hide_border=true&bg_color=18181b&title_color=c084fc&text_color=e5e7eb&cache_seconds=86400"/>
-
-</div>
-
-> 💬 *Tip: these two stat cards are the only dynamic images left — if they ever lag, it's the public API being busy, not your file. Ask me to set up your own private instance and this becomes instant, always.*
 
 <br/>
 
