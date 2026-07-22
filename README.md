@@ -1,9 +1,58 @@
+<!-- ===================================================== -->
+<!--                     HERO SECTION                      -->
+<!-- ===================================================== -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:18181b,25:7c3aed,50:a855f7,75:ec4899,100:18181b&text=Naveengouda%20M%20K&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20•%20Java%20%7C%20Spring%20Boot%20%7C%20REST%20APIs&descAlignY=58&descSize=18&descFontColor=f5d0fe&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=310&color=gradient&customColorList=6,11,20,24,30&text=Naveen&fontSize=70&fontAlignY=36&animation=fadeIn&fontColor=ffffff&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20Developer&descAlignY=58&descSize=20"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=C084FC&center=true&vCenter=true&width=820&lines=%3E+Backend+Developer+%7C+Java+%2B+Spring+Boot;%3E+Designing+Secure%2C+Scalable+REST+APIs;%3E+Hibernate+%2B+JPA+%2B+MySQL;%3E+Currently%3A+Intern+%40+JSpiders%2C+Bengaluru;%3E+Status%3A+Open+To+Work+%E2%9C%94"/>
+</div>
 
+<div align="center">
+
+# 👋 Hi, I'm **Naveengouda M K**
+
+### 🚀 Java Backend Developer | Spring Boot | REST APIs | MySQL
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2800&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Building+Scalable+Backend+Applications;Spring+Boot+%7C+Hibernate+%7C+JPA;Secure+REST+API+Development;Currently+Learning+Microservices;Open+to+Full-Time+Opportunities"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="mailto:navi2004naveen@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/naveengouda-m-khandeppagoudra-b6b4b1289/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://naveengoudamk.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Live-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://drive.google.com/file/d/1xuzY5AqxPkHT1rm5t8yJLXRJ62EvggNI/view">
+<img src="https://img.shields.io/badge/Resume-PDF-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=naveengoudamk&style=for-the-badge&color=blueviolet)
+
+![](https://img.shields.io/github/followers/naveengoudamk?style=for-the-badge)
+
+![](https://img.shields.io/github/stars/naveengoudamk?style=for-the-badge)
+
+</div>
+
+<br>
 <br/>
 
 <a href="mailto:navi2004naveen@gmail.com"><img src="https://img.shields.io/badge/Email-navi2004naveen%40gmail.com-a855f7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=18181b"/></a>
