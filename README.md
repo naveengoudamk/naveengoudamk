@@ -25,56 +25,37 @@
 </p>
 
 </div>
-
 ---
+
 <div align="center">
 
 # 👨‍💻 About Me
 
-<table>
+Passionate **Java Backend Developer** focused on building secure, scalable, and high-performance applications using **Java**, **Spring Boot**, **Hibernate**, and **MySQL**. Currently working as a **Java Full Stack Developer Intern at JSpiders, Bengaluru**, while expanding my expertise in **Microservices**, **Spring Security**, and **System Design**.
+
+</div>
+
+
+<table align="center">
 <tr>
-<td align="left">
+<td>
 
-### 🚀 Professional Summary
-
-🎓 **B.E. in Computer Science & Engineering**
-
-💼 **Java Full Stack Developer Intern @ JSpiders, Bengaluru**
-
-🌱 Currently learning **Microservices**, **Spring Security**, and **System Design**
-
-💡 Passionate about building **secure**, **scalable**, and **high-performance backend applications**
-
-🤝 Looking for **Full-Time Software Engineer / Java Backend Developer** opportunities
+- 💼 **Role:** Java Backend Developer
+- 📍 **Location:** Bengaluru, Karnataka, India 🇮🇳
+- 🎓 **Education:** B.E. Computer Science & Engineering
+- 🚀 **Current:** Java Full Stack Developer Intern @ JSpiders
+- 🌱 **Learning:** Microservices • Spring Security • System Design
+- 💡 **Interested In:** Backend Development • REST APIs • Cloud • Open Source
+- 🤝 **Open To:** Full-Time Software Engineer / Java Backend Roles
+- 💬 **Ask Me About:** Java • Spring Boot • Hibernate • JPA • MySQL
+- ⚡ **Motto:** *"Simplicity is a prerequisite for reliability."*
 
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
-
 <div align="center">
-
-### 💻 Developer Profile
-
-| 🏷️ **Category** | 📌 **Details** |
-|:---|:---|
-| 👤 **Name** | **Naveengouda M K** |
-| 💼 **Role** | Java Backend Developer |
-| 📍 **Location** | Bengaluru, Karnataka, India 🇮🇳 |
-| 🎓 **Education** | B.E. Computer Science & Engineering |
-| 💻 **Current Position** | Java Full Stack Developer Intern @ JSpiders |
-| 🌱 **Currently Learning** | Microservices • Spring Security • System Design |
-| ❤️ **Interests** | Backend Development • REST APIs • Cloud • Open Source |
-| 🤝 **Open To** | Full-Time Roles • Backend Projects • Open Source Collaboration |
-| 💬 **Ask Me About** | Java • Spring Boot • Hibernate • MySQL • REST APIs |
-| ⚡ **Fun Fact** | *"Simplicity is a prerequisite for reliability."* |
-
-</div>
-
----<div align="center">
 
 # 🛠️ Tech Stack
 
