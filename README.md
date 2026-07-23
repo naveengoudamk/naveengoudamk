@@ -7,6 +7,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;Spring+Boot+%7C+Hibernate+%7C+JPA;Building+Scalable+REST+APIs;Learning+Microservices+%26+System+Design;Open+To+Full-Time+Opportunities"/>
 
 <br><br>
+<div align="center">
+
 
 </div>
 </div>
