@@ -219,8 +219,9 @@
 <br><br>
 
 ### ⭐ If you like my work, consider giving a star to my repositories!
+<br><br>
+### 💜 *"Code with Passion • Learn Continuously • Build Impact"* 
 <br>
-### 💜 *"Code with Passion • Learn Continuously • Build Impact"*
 </div>
 <div align="center">
   
@@ -228,16 +229,7 @@ If you find my projects helpful or enjoy my open-source contributions, consider 
 <br>
 
 
-<br><br>
 
-### ⭐ Thanks for visiting my profile!
-
-*"First, solve the problem. Then, write the code."* — **John Johnson**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0f172a,50:7c3aed,100:ec4899"/>
-
-</div>
-<div align="center">
 
 # 📜 Certifications
 
@@ -290,6 +282,17 @@ SQL • Database Design • Joins • Stored Procedures • Optimization
 ⭐ HackerRank Java (3★)
 
 ⭐ HackerRank SQL (3★)
+
+<br><br>
+
+### ⭐ Thanks for visiting my profile!
+
+*"First, solve the problem. Then, write the code."* — **John Johnson**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0f172a,50:7c3aed,100:ec4899"/>
+
+</div>
+<div align="center">
 
 💯 500+ DSA Problems Solved
 
