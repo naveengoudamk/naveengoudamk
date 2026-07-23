@@ -25,7 +25,7 @@
 </p>
 
 </div>
----
+
 
 <div align="center">
 
@@ -53,39 +53,48 @@ Passionate **Java Backend Developer** focused on building secure, scalable, and 
 </td>
 </tr>
 </table>
-
 ---
+
 <div align="center">
 
 # 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
-<p>
+<table>
+<tr>
+<th>💻 Languages</th>
+<th>⚙️ Backend</th>
+<th>🗄️ Database</th>
+<th>🛠️ Tools</th>
+<th>☁️ Learning</th>
+</tr>
+
+<tr>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=java,js,html,css" />
-</p>
+</td>
 
-### ⚙️ Backend Development
-<p>
-<img src="https://skillicons.dev/icons?i=spring,maven,hibernate" />
-</p>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=spring,hibernate,maven" />
+</td>
 
-### 🗄️ Database
-<p>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+</td>
 
-### 🛠️ Tools & Technologies
-<p>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea" />
-</p>
+</td>
 
-### 📚 Currently Learning
-<p>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=docker,aws,linux" />
-</p>
+</td>
+
+</tr>
+</table>
 
 </div>
 
+---
 ---
 <div align="center">
 
