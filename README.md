@@ -131,12 +131,23 @@ Passionate **Java Backend Developer** focused on building secure, scalable, and 
 
 # 🌐 Coding Profiles
 
-<a href="https://leetcode.com/u/naveengoudamk/" target="_blank">
-  <img src="https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/>
+<a href="https://leetcode.com/u/naveengoudamk/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+&nbsp;
+<a href="https://www.naukri.com/code360/profile/13541076-57ef-4a02-bfc2-dc756f05ba15">
+<img src="https://img.shields.io/badge/Code360-FF6B35?style=for-the-badge&logo=codingninjas&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.codechef.com/users/rag_monkeys_22">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 <br><br>
+<div align="center">
 
-<img width="80%" src="https://leetcard.jacoblin.cool/naveengoudamk?theme=dark&font=JetBrains+Mono&ext=contest"/>
+<img width="55%" src="https://leetcard.jacoblin.cool/naveengoudamk?theme=dark&font=JetBrains+Mono&ext=contest"/>
+
+</div>
 
 </div>
 
