@@ -160,14 +160,6 @@
 
 <br><br>
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naveengoudamk&theme=tokyonight"/>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=naveengoudamk&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
-
-</div>
-
 ---
 <div align="center">
 
@@ -224,45 +216,11 @@
 </div>
 
 ---
-<div align="center">
-
-# 🤝 Let's Connect
-
-<p>
-I'm always open to discussing <strong>Software Engineering</strong>, <strong>Backend Development</strong>, <strong>Open Source</strong>, or exciting opportunities.
-</p>
-
-<br>
-
-<a href="mailto:navi2004naveen@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/naveengouda-m-khandeppagoudra-b6b4b1289/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/naveengoudamk">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://naveengoudamk.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://drive.google.com/file/d/1xuzY5AqxPkHT1rm5t8yJLXRJ62EvggNI/view">
-<img src="https://img.shields.io/badge/Resume-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
-
 <br><br>
 
 ### ⭐ If you like my work, consider giving a star to my repositories!
 
-<img src="https://raw.githubusercontent.com/naveengoudamk/naveengoudamk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
 <br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0f172a,50:7c3aed,100:ec4899"/>
 
 ### 💜 *"Code with Passion • Learn Continuously • Build Impact"*
 
