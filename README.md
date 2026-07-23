@@ -219,35 +219,14 @@
 <br><br>
 
 ### ⭐ If you like my work, consider giving a star to my repositories!
-
-<br><br>
-
+<br>
 ### 💜 *"Code with Passion • Learn Continuously • Build Impact"*
-
 </div>
 <div align="center">
-
-# ☕ Support My Work
-
+  
 If you find my projects helpful or enjoy my open-source contributions, consider supporting my work. Your support motivates me to build more useful projects and share them with the community.
-
 <br>
 
-<a href="https://github.com/sponsors/naveengoudamk">
-  <img src="https://img.shields.io/badge/GitHub-Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="https://buymeacoffee.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000"/>
-</a>
-
-&nbsp;
-
-<a href="https://ko-fi.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/>
-</a>
 
 <br><br>
 
