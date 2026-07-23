@@ -153,8 +153,6 @@ Passionate **Java Backend Developer** focused on building secure, scalable, and 
 
 ---
 
----
----
 
 <div align="center">
 
@@ -166,29 +164,6 @@ Passionate **Java Backend Developer** focused on building secure, scalable, and 
 
 <br>
 
-# 🤝 Let's Connect
-
-<a href="mailto:navi2004naveen@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/naveengouda-m-khandeppagoudra-b6b4b1289/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/naveengoudamk">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://naveengoudamk.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://drive.google.com/file/d/1xuzY5AqxPkHT1rm5t8yJLXRJ62EvggNI/view">
-<img src="https://img.shields.io/badge/Resume-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
-
-<br><br>
 
 ### ⭐ Thanks for visiting my profile!
 
