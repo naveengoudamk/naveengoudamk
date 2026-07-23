@@ -145,7 +145,7 @@ Passionate **Java Backend Developer** focused on building secure, scalable, and 
 <br><br>
 <div align="center">
 
-<img width="55%" src="https://leetcard.jacoblin.cool/naveengoudamk?theme=dark&font=JetBrains+Mono&ext=contest"/>
+<img width="40%" src="https://leetcard.jacoblin.cool/naveengoudamk?theme=dark&font=JetBrains+Mono&ext=contest"/>
 
 </div>
 
