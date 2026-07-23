@@ -132,7 +132,7 @@ Passionate **Java Backend Developer** focused on building secure, scalable, and 
 # 🌐 Coding Profiles
 
 <a href="https://leetcode.com/u/naveengoudamk/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
+  <img src="https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 <br><br>
 
