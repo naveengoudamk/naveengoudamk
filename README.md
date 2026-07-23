@@ -1,136 +1,456 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:18181b,25:7c3aed,50:a855f7,75:ec4899,100:18181b&text=Naveengouda%20M%20K&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20•%20Java%20%7C%20Spring%20Boot%20%7C%20REST%20APIs&descAlignY=58&descSize=18&descFontColor=f5d0fe&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0f172a,30:6d28d9,70:a855f7,100:ec4899&text=Naveengouda%20M%20K&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Java%20Backend%20Developer%20•%20Spring%20Boot%20•%20REST%20APIs&descAlignY=60&descSize=18&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=C084FC&center=true&vCenter=true&width=820&lines=%3E+Backend+Developer+%7C+Java+%2B+Spring+Boot;%3E+Designing+Secure%2C+Scalable+REST+APIs;%3E+Hibernate+%2B+JPA+%2B+MySQL;%3E+Currently%3A+Intern+%40+JSpiders%2C+Bengaluru;%3E+Status%3A+Open+To+Work+%E2%9C%94"/>
+<br>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=C084FC&center=true&vCenter=true&width=850&lines=Java+Backend+Developer;Spring+Boot+%7C+Hibernate+%7C+JPA;Building+Scalable+REST+APIs;Learning+Microservices+%26+System+Design;Open+To+Full-Time+Opportunities"/>
 
-<a href="mailto:navi2004naveen@gmail.com"><img src="https://img.shields.io/badge/Email-navi2004naveen%40gmail.com-a855f7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=18181b"/></a>
-<a href="https://www.linkedin.com/in/naveengouda-m-khandeppagoudra-b6b4b1289/"><img src="https://img.shields.io/badge/LinkedIn-Connect-a855f7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=18181b"/></a>
-<a href="https://naveengoudamk.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-a855f7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=18181b"/></a>
-<a href="https://drive.google.com/file/d/1xuzY5AqxPkHT1rm5t8yJLXRJ62EvggNI/view"><img src="https://img.shields.io/badge/Resume-Download-a855f7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=18181b"/></a>
+<br><br>
 
-<br/><br/>
+<a href="mailto:navi2004naveen@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=naveengoudamk&label=PROFILE+VIEWS&color=a855f7&style=for-the-badge&labelColor=18181b)
-![Open to Work](https://img.shields.io/badge/AVAILABLE_FOR-Full--Time_%7C_Freelance-22c55e?style=for-the-badge&labelColor=18181b)
+<a href="https://www.linkedin.com/in/naveengouda-m-khandeppagoudra-b6b4b1289/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://naveengoudamk.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://drive.google.com/file/d/1xuzY5AqxPkHT1rm5t8yJLXRJ62EvggNI/view">
+<img src="https://img.shields.io/badge/Resume-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=naveengoudamk&style=for-the-badge&color=7C3AED"/>
+
+<img src="https://img.shields.io/badge/Open%20To%20Work-YES-success?style=for-the-badge"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+---
+<div align="center">
 
-## `01` Who Am I
+# 👨‍💻 About Me
 
-```json
-{
-  "name": "Naveengouda M K",
-  "title": "Java Full Stack Developer",
-  "location": "Bengaluru, India",
-  "currentRole": "Java Full Stack Developer Intern @ JSpiders",
-  "skills": ["Java", "Spring Boot", "Hibernate", "JPA", "REST APIs", "MySQL", "JWT", "Microservices"],
-  "openTo": ["Full-Time Roles", "Backend Projects", "Open Source Collaboration"],
-  "motto": "Simplicity is a prerequisite for reliability."
-}
-```
+<table>
+<tr>
+<td align="left">
 
-<br/>
+### 🚀 Professional Summary
 
-## `02` Tech Stack
+🎓 **B.E. in Computer Science & Engineering**
+
+💼 **Java Full Stack Developer Intern @ JSpiders, Bengaluru**
+
+🌱 Currently learning **Microservices**, **Spring Security**, and **System Design**
+
+💡 Passionate about building **secure**, **scalable**, and **high-performance backend applications**
+
+🤝 Looking for **Full-Time Software Engineer / Java Backend Developer** opportunities
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+### 💻 Developer Profile
+
+| 🏷️ **Category** | 📌 **Details** |
+|:---|:---|
+| 👤 **Name** | **Naveengouda M K** |
+| 💼 **Role** | Java Backend Developer |
+| 📍 **Location** | Bengaluru, Karnataka, India 🇮🇳 |
+| 🎓 **Education** | B.E. Computer Science & Engineering |
+| 💻 **Current Position** | Java Full Stack Developer Intern @ JSpiders |
+| 🌱 **Currently Learning** | Microservices • Spring Security • System Design |
+| ❤️ **Interests** | Backend Development • REST APIs • Cloud • Open Source |
+| 🤝 **Open To** | Full-Time Roles • Backend Projects • Open Source Collaboration |
+| 💬 **Ask Me About** | Java • Spring Boot • Hibernate • MySQL • REST APIs |
+| ⚡ **Fun Fact** | *"Simplicity is a prerequisite for reliability."* |
+
+</div>
+
+---<div align="center">
+
+# 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,html,css" />
+</p>
+
+### ⚙️ Backend Development
+<p>
+<img src="https://skillicons.dev/icons?i=spring,maven,hibernate" />
+</p>
+
+### 🗄️ Database
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🛠️ Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea" />
+</p>
+
+### 📚 Currently Learning
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,linux" />
+</p>
+
+</div>
+
+---
+<div align="center">
+
+# 💼 Experience
+
+<table>
+<tr>
+<td width="90%">
+
+## 🚀 Java Full Stack Developer Intern
+**📍 JSpiders, Bengaluru**  
+🗓️ **Jan 2026 – Present**
+
+### 🔹 Responsibilities
+
+- ✅ Developed scalable CRUD applications using **Java** and **Spring Boot**
+- ✅ Designed and implemented secure **RESTful APIs**
+- ✅ Integrated **Hibernate** & **JPA** with **MySQL**
+- ✅ Implemented **JWT Authentication** and **Role-Based Authorization**
+- ✅ Followed Layered Architecture and MVC Design Pattern
+- ✅ Tested APIs using **Postman**
+- ✅ Managed source code using **Git** & **GitHub**
+- ✅ Fixed bugs, optimized performance, and improved code quality
+- ✅ Collaborated on real-world full-stack development projects
+
+### 🛠️ Tech Used
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,maven,git,github,postman,idea"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+<div align="center">
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+### 🗳️ Smart Voting App
+
+Secure Android-based digital voting system with authentication, election management, and real-time result publishing.
+
+**Tech Stack**
+
+Java • Android • Firebase • JSON • XML
+
+<br>
+
+<a href="https://github.com/naveengoudamk/SmartVotingApp">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=naveengoudamk&repo=SmartVotingApp&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### 🌐 Smart Voting Web
+
+Modern web version of the Smart Voting platform with responsive UI and secure voting workflow.
+
+**Tech Stack**
+
+HTML • CSS • JavaScript • Firebase
+
+<br>
+
+<a href="https://github.com/naveengoudamk/SmartVotingAppWeb">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=naveengoudamk&repo=SmartVotingAppWeb&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### 🛒 Java Full Stack Ecommerce
+
+Complete e-commerce application with authentication, product management, shopping cart, and backend APIs.
+
+**Tech Stack**
+
+Java • Spring Boot • Hibernate • MySQL
+
+<br>
+
+<a href="https://github.com/naveengoudamk/java-fullstack-ecommerce">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=naveengoudamk&repo=java-fullstack-ecommerce&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### 💻 Codeless
+
+Developer-focused project showcasing modern application architecture and backend development practices.
+
+**Tech Stack**
+
+Java • Spring Boot • REST API
+
+<br>
+
+<a href="https://github.com/naveengoudamk/codeless">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=naveengoudamk&repo=codeless&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+<div align="center">
+
+# 📊 GitHub Analytics
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=naveengoudamk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveengoudamk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+<br><br>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=naveengoudamk&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naveengoudamk&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=naveengoudamk&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
+
+</div>
+
+---
+<div align="center">
+
+# 🏆 Achievements & Competitive Programming
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+## 🏅 Achievements
+
+🥇 **Best Project Award** – CODE4CHANGE Hackathon 2025
+
+💻 **500+ DSA Problems Solved**
+
+⭐ **3★ Java** – HackerRank
+
+⭐ **3★ SQL** – HackerRank
+
+🚀 Passionate about Backend Development & Open Source
+
+</td>
+
+<td align="center" width="50%">
+
+## 💻 Coding Profiles
+
+<a href="https://leetcode.com/u/naveengoudamk/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<br><br>
+
+<a href="https://www.naukri.com/code360/profile/13541076-57ef-4a02-bfc2-dc756f05ba15">
+<img src="https://img.shields.io/badge/Code360-Profile-FF6B35?style=for-the-badge&logo=codingninjas&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="https://www.codechef.com/users/rag_monkeys_22">
+<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://leetcard.jacoblin.cool/naveengoudamk?theme=dark&font=Nunito&ext=contest" />
+
+</div>
+
+---
+<div align="center">
+
+# 🤝 Let's Connect
+
+<p>
+I'm always open to discussing <strong>Software Engineering</strong>, <strong>Backend Development</strong>, <strong>Open Source</strong>, or exciting opportunities.
+</p>
+
+<br>
+
+<a href="mailto:navi2004naveen@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/naveengouda-m-khandeppagoudra-b6b4b1289/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/naveengoudamk">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+</a>
+
+<a href="https://naveengoudamk.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://drive.google.com/file/d/1xuzY5AqxPkHT1rm5t8yJLXRJ62EvggNI/view">
+<img src="https://img.shields.io/badge/Resume-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
+<br><br>
+
+### ⭐ If you like my work, consider giving a star to my repositories!
+
+<img src="https://raw.githubusercontent.com/naveengoudamk/naveengoudamk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0f172a,50:7c3aed,100:ec4899"/>
+
+### 💜 *"Code with Passion • Learn Continuously • Build Impact"*
 
 </div>
-
-<br/>
-
-## `03` Experience Timeline
-
-```
-2026 ─┬─ Jan   Java Full Stack Developer Intern @ JSpiders, Bengaluru
-      │        • Built scalable CRUD apps with Spring Boot
-      │        • Designed & secured REST APIs
-      │        • Integrated MySQL via Hibernate + JPA
-      │        • Implemented JWT-based Authentication
-      │        • Version control & API testing with Git + Postman
-      └─ Now   Actively learning Microservices & System Design
-```
-
-<br/>
-
-## `04` GitHub Metrics
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=naveengoudamk&show_icons=true&theme=radical&hide_border=true&bg_color=18181b&title_color=c084fc&icon_color=ec4899&text_color=e5e7eb&cache_seconds=1800"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveengoudamk&layout=compact&theme=radical&hide_border=true&bg_color=18181b&title_color=c084fc&text_color=e5e7eb&cache_seconds=1800"/>
+# ☕ Support My Work
 
-<br/><br/>
+If you find my projects helpful or enjoy my open-source contributions, consider supporting my work. Your support motivates me to build more useful projects and share them with the community.
 
-<img width="60%" src="https://streak-stats.demolab.com?user=naveengoudamk&theme=radical&hide_border=true&background=18181b&ring=c084fc&fire=ec4899&currStreakLabel=c084fc"/>
+<br>
+
+<a href="https://github.com/sponsors/naveengoudamk">
+  <img src="https://img.shields.io/badge/GitHub-Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://buymeacoffee.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000"/>
+</a>
+
+&nbsp;
+
+<a href="https://ko-fi.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/>
+</a>
+
+<br><br>
+
+### ⭐ Thanks for visiting my profile!
+
+*"First, solve the problem. Then, write the code."* — **John Johnson**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0f172a,50:7c3aed,100:ec4899"/>
 
 </div>
-
-<br/>
-
-## `05` Pinned Work
-
 <div align="center">
 
-<a href="https://github.com/naveengoudamk/SmartVotingApp"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=naveengoudamk&repo=SmartVotingApp&theme=radical&hide_border=true&bg_color=18181b&title_color=c084fc&cache_seconds=1800"/></a>
-<a href="https://github.com/naveengoudamk/SmartVotingAppWeb"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=naveengoudamk&repo=SmartVotingAppWeb&theme=radical&hide_border=true&bg_color=18181b&title_color=c084fc&cache_seconds=1800"/></a>
-<br/>
-<a href="https://github.com/naveengoudamk/codeless"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=naveengoudamk&repo=codeless&theme=radical&hide_border=true&bg_color=18181b&title_color=c084fc&cache_seconds=1800"/></a>
-<a href="https://github.com/naveengoudamk/java-fullstack-ecommerce"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=naveengoudamk&repo=java-fullstack-ecommerce&theme=radical&hide_border=true&bg_color=18181b&title_color=c084fc&cache_seconds=1800"/></a>
+# 📜 Certifications
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+### ☕ Java
+
+<img src="https://img.shields.io/badge/Core_Java-Completed-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+Core Java • OOP • Collections • Multithreading • JDBC
+
+</td>
+
+<td align="center" width="33%">
+
+### 🌱 Spring Boot
+
+<img src="https://img.shields.io/badge/Spring_Boot-Completed-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+
+Spring Boot • Spring MVC • Spring Security • REST APIs • JPA
+
+</td>
+
+<td align="center" width="33%">
+
+### 💻 SQL
+
+<img src="https://img.shields.io/badge/MySQL-Completed-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+SQL • Database Design • Joins • Stored Procedures • Optimization
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+## 🏅 Professional Certifications
+
+<p align="center">
+
+🏆 Best Project Award – CODE4CHANGE Hackathon 2025
+
+🎖️ Java Full Stack Development – JSpiders
+
+⭐ HackerRank Java (3★)
+
+⭐ HackerRank SQL (3★)
+
+💯 500+ DSA Problems Solved
+
+</p>
 
 </div>
 
-<br/>
-
-## `06` Competitive Coding
-
-<div align="center">
-
-<a href="https://leetcode.com/u/naveengoudamk/"><img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=18181b"/></a>
-<a href="https://www.naukri.com/code360/profile/13541076-57ef-4a02-bfc2-dc756f05ba15"><img src="https://img.shields.io/badge/Code360-Profile-FF6B35?style=for-the-badge&logo=codingninjas&logoColor=white&labelColor=18181b"/></a>
-<a href="https://www.codechef.com/users/rag_monkeys_22"><img src="https://img.shields.io/badge/CodeChef-Compete-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=18181b"/></a>
-
-</div>
-
-<br/>
-
-## `07` Let's Connect
-
-<div align="center">
-
-<a href="mailto:navi2004naveen@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/naveengouda-m-khandeppagoudra-b6b4b1289/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://naveengoudamk.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://drive.google.com/file/d/1xuzY5AqxPkHT1rm5t8yJLXRJ62EvggNI/view"><img src="https://img.shields.io/badge/Resume-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-### 💡 *Write Code • Ship Fast • Never Stop Learning*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=140&section=footer&color=0:18181b,50:a855f7,100:18181b"/>
-
-</div>
+---
