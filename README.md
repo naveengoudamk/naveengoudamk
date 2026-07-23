@@ -1,13 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=270&color=0:020617,20:4c1d95,45:6d28d9,70:a855f7,100:ec4899&text=Naveengouda%20M%20K&fontColor=F8FAFC&fontSize=52&fontAlignY=37&fontAlign=50&desc=Java%20Backend%20Developer%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20REST%20APIs&descFontColor=DDD6FE&descSize=20&descAlignY=61&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=270&color=0:020617,20:4c1d95,45:6d28d9,70:a855f7,100:ec4899&text=Naveengouda%20M%20K&fontColor=7DD3FC&fontSize=52&fontAlignY=37&fontAlign=50&desc=Java%20Backend%20Developer%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20REST%20APIs&descFontColor=BAE6FD&descSize=20&descAlignY=61&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=A855F7&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;Spring+Boot+%7C+Hibernate+%7C+JPA;Building+Scalable+REST+APIs;Learning+Microservices+%26+System+Design;Open+To+Full-Time+Opportunities"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;Spring+Boot+%7C+Hibernate+%7C+JPA;Building+Scalable+REST+APIs;Learning+Microservices+%26+System+Design;Open+To+Full-Time+Opportunities"/>
 
 <br><br>
 
+</div>
 </div>
 <a href="mailto:navi2004naveen@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
