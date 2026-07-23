@@ -154,88 +154,46 @@ Passionate **Java Backend Developer** focused on building secure, scalable, and 
 ---
 
 ---
-<br><br>
+---
 
-### ⭐ If you like my work, consider giving a star to my repositories!
-<br><br>
-### 💜 *"Code with Passion • Learn Continuously • Build Impact"* 
-<br>
-</div>
 <div align="center">
-  
-If you find my projects helpful or enjoy my open-source contributions, consider supporting my work. Your support motivates me to build more useful projects and share them with the community.
-<br>
 
+# 📜 Certifications & Achievements
 
-
-
-# 📜 Certifications
-
-<table>
-<tr>
-
-<td align="center" width="33%">
-
-### ☕ Java
-
-<img src="https://img.shields.io/badge/Core_Java-Completed-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-Core Java • OOP • Collections • Multithreading • JDBC
-
-</td>
-
-<td align="center" width="33%">
-
-### 🌱 Spring Boot
-
-<img src="https://img.shields.io/badge/Spring_Boot-Completed-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-
-Spring Boot • Spring MVC • Spring Security • REST APIs • JPA
-
-</td>
-
-<td align="center" width="33%">
-
-### 💻 SQL
-
-<img src="https://img.shields.io/badge/MySQL-Completed-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-SQL • Database Design • Joins • Stored Procedures • Optimization
-
-</td>
-
-</tr>
-</table>
+| 🎓 Certifications | 🏆 Achievements |
+|:-----------------|:---------------|
+| ☕ **Java Full Stack Development** – JSpiders <br><br> 🌱 Spring Boot • Spring Security <br><br> 💾 MySQL & Database Design | 🥇 Best Project Award – CODE4CHANGE 2025 <br><br> 💯 500+ DSA Problems Solved <br><br> ⭐ HackerRank Java (3★) & SQL (3★) |
 
 <br>
 
-## 🏅 Professional Certifications
+# 🤝 Let's Connect
 
-<p align="center">
+<a href="mailto:navi2004naveen@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-🏆 Best Project Award – CODE4CHANGE Hackathon 2025
+<a href="https://www.linkedin.com/in/naveengouda-m-khandeppagoudra-b6b4b1289/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-🎖️ Java Full Stack Development – JSpiders
+<a href="https://github.com/naveengoudamk">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-⭐ HackerRank Java (3★)
+<a href="https://naveengoudamk.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-⭐ HackerRank SQL (3★)
+<a href="https://drive.google.com/file/d/1xuzY5AqxPkHT1rm5t8yJLXRJ62EvggNI/view">
+<img src="https://img.shields.io/badge/Resume-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
 
 <br><br>
 
 ### ⭐ Thanks for visiting my profile!
 
-*"First, solve the problem. Then, write the code."* — **John Johnson**
+*"Building scalable backend solutions with clean code and continuous learning."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0f172a,50:7c3aed,100:ec4899"/>
-
-</div>
-<div align="center">
-
-💯 500+ DSA Problems Solved
-
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,35:4c1d95,70:7c3aed,100:ec4899"/>
 
 </div>
-
----
