@@ -94,8 +94,6 @@ Passionate **Java Backend Developer** focused on building secure, scalable, and 
 
 </div>
 
----
----
 
 <div align="center">
 
@@ -111,74 +109,47 @@ Passionate **Java Backend Developer** focused on building secure, scalable, and 
 
 </div>
 
----
+
 
 ---
 
 <div align="center">
 
-# 📊 GitHub Analytics
+# 🏆 Achievements
 
-<br><br>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=naveengoudamk&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
----
-<div align="center">
-
-# 🏆 Achievements & Competitive Programming
-
-<table>
-<tr>
-
-<td align="center" width="50%">
-
-## 🏅 Achievements
-
-🥇 **Best Project Award** – CODE4CHANGE Hackathon 2025
-
-💻 **500+ DSA Problems Solved**
-
-⭐ **3★ Java** – HackerRank
-
-⭐ **3★ SQL** – HackerRank
-
-🚀 Passionate about Backend Development & Open Source
-
-</td>
-
-<td align="center" width="50%">
-
-## 💻 Coding Profiles
-
-<a href="https://leetcode.com/u/naveengoudamk/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<br><br>
-
-<a href="https://www.naukri.com/code360/profile/13541076-57ef-4a02-bfc2-dc756f05ba15">
-<img src="https://img.shields.io/badge/Code360-Profile-FF6B35?style=for-the-badge&logo=codingninjas&logoColor=white"/>
-</a>
-
-<br><br>
-
-<a href="https://www.codechef.com/users/rag_monkeys_22">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<img src="https://leetcard.jacoblin.cool/naveengoudamk?theme=dark&font=Nunito&ext=contest" />
+| Achievement | Status |
+|:------------|:------:|
+| 🥇 Best Project Award – CODE4CHANGE Hackathon 2025 | ✅ |
+| 💻 500+ DSA Problems Solved | ✅ |
+| ⭐ HackerRank Java (3★) | ✅ |
+| ⭐ HackerRank SQL (3★) | ✅ |
+| 🚀 Open Source & Backend Enthusiast | ❤️ |
 
 </div>
+
+<div align="center">
+
+# 🌐 Coding Profiles
+
+<a href="https://leetcode.com/u/naveengoudamk/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+&nbsp;
+<a href="https://www.naukri.com/code360/profile/13541076-57ef-4a02-bfc2-dc756f05ba15">
+<img src="https://img.shields.io/badge/Code360-FF6B35?style=for-the-badge&logo=codingninjas&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.codechef.com/users/rag_monkeys_22">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img width="80%" src="https://leetcard.jacoblin.cool/naveengoudamk?theme=dark&font=JetBrains+Mono&ext=contest"/>
+
+</div>
+
+---
 
 ---
 <br><br>
