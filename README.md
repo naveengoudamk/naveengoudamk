@@ -53,7 +53,7 @@ Passionate **Java Backend Developer** focused on building secure, scalable, and 
 </td>
 </tr>
 </table>
----
+
 
 <div align="center">
 
@@ -96,41 +96,22 @@ Passionate **Java Backend Developer** focused on building secure, scalable, and 
 
 ---
 ---
+
 <div align="center">
 
 # 💼 Experience
 
-<table>
-<tr>
-<td width="90%">
-
-## 🚀 Java Full Stack Developer Intern
-**📍 JSpiders, Bengaluru**  
-🗓️ **Jan 2026 – Present**
-
-### 🔹 Responsibilities
-
-- ✅ Developed scalable CRUD applications using **Java** and **Spring Boot**
-- ✅ Designed and implemented secure **RESTful APIs**
-- ✅ Integrated **Hibernate** & **JPA** with **MySQL**
-- ✅ Implemented **JWT Authentication** and **Role-Based Authorization**
-- ✅ Followed Layered Architecture and MVC Design Pattern
-- ✅ Tested APIs using **Postman**
-- ✅ Managed source code using **Git** & **GitHub**
-- ✅ Fixed bugs, optimized performance, and improved code quality
-- ✅ Collaborated on real-world full-stack development projects
-
-### 🛠️ Tech Used
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,maven,git,github,postman,idea"/>
-</p>
-
-</td>
-</tr>
-</table>
+| | |
+|:---|:---|
+| 💼 **Role** | Java Full Stack Developer Intern |
+| 🏢 **Organization** | JSpiders, Bengaluru |
+| 📅 **Duration** | Jan 2026 – Present |
+| 🚀 **Highlights** | • Built CRUD applications using Java & Spring Boot<br>• Designed secure REST APIs<br>• Integrated Hibernate/JPA with MySQL<br>• Implemented JWT Authentication & RBAC<br>• Worked with MVC, Git, GitHub & Postman |
+| 🛠️ **Tech Stack** | <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,maven,git,github,postman,idea" /> |
 
 </div>
+
+---
 
 ---
 
